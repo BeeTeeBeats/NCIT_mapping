@@ -1,0 +1,62 @@
+Dataset_ID	Sample_ID	Platform_ID	Patient_ID	er_original	her2_summary	pr	response_category	time_point
+GSE18728	GSM465183	GPL570	pt1.c2	focally pos	pos	neg	R	c2
+GSE18728	GSM465184	GPL570	pt3.bl	pos	pos	neg	R	bl
+GSE18728	GSM465185	GPL570	pt3.or	pos	pos	neg	R	or
+GSE18728	GSM465186	GPL570	pt4.bl	focally pos	neg	neg	NR	bl
+GSE18728	GSM465187	GPL570	pt5.or	pos	pos	neg	NR	or
+GSE18728	GSM465188	GPL570	pt6.or	pos	neg	pos	R	or
+GSE18728	GSM465189	GPL570	pt6.c2	pos	neg	pos	R	C2
+GSE18728	GSM465190	GPL570	pt6.bl	pos	neg	pos	R	bl
+GSE18728	GSM465191	GPL570	pt7.bl	pos	neg	neg	NR	bl
+GSE18728	GSM465192	GPL570	pt7.or	pos	neg	neg	NR	or
+GSE18728	GSM465193	GPL570	pt8.or	neg	neg	neg	NR	or
+GSE18728	GSM465194	GPL570	pt8.bl	neg	neg	neg	NR	bl
+GSE18728	GSM465195	GPL570	pt8.c2	neg	neg	neg	NR	c2
+GSE18728	GSM465196	GPL570	pt10.or	pos	neg	pos	NR	or
+GSE18728	GSM465197	GPL570	pt11.or	neg	pos	pos	NR	or
+GSE18728	GSM465198	GPL570	pt12.bl	pos	neg	focally pos	R	bl
+GSE18728	GSM465199	GPL570	pt12.c2	pos	neg	focally pos	R	c2
+GSE18728	GSM465200	GPL570	pt13.c2	neg	neg	pos	NR	c2
+GSE18728	GSM465201	GPL570	pt13.bl	neg	neg	pos	NR	bl
+GSE18728	GSM465202	GPL570	pt13.or	neg	neg	pos	NR	or
+GSE18728	GSM465203	GPL570	pt14.bl	pos	pos	neg	R	bl
+GSE18728	GSM465204	GPL570	pt14.c2	pos	pos	neg	R	c2
+GSE18728	GSM465205	GPL570	pt15.c2	pos	pos	pos	NR	c2
+GSE18728	GSM465206	GPL570	pt15.bl	pos	pos	neg	NR	bl
+GSE18728	GSM465207	GPL570	pt15.or	pos	pos	neg	NR	or
+GSE18728	GSM465208	GPL570	pt16.or	neg	neg	neg	NR	or
+GSE18728	GSM465209	GPL570	pt16.bl	neg	neg	neg	NR	bl
+GSE18728	GSM465210	GPL570	pt17.bl	neg	neg	neg	NR	bl
+GSE18728	GSM465211	GPL570	pt17.c2	neg	neg	neg	NR	c2
+GSE18728	GSM465212	GPL570	pt17.or	neg	neg	neg	NR	or
+GSE18728	GSM465213	GPL570	pt18.c2	neg	neg	neg	R	c2
+GSE18728	GSM465214	GPL570	pt18.or	neg	neg	neg	R	or
+GSE18728	GSM465215	GPL570	pt18.bl	neg	neg	neg	R	bl
+GSE18728	GSM465216	GPL570	pt19.bl	neg	neg	neg	NR	bl
+GSE18728	GSM465217	GPL570	pt19.c2	neg	neg	neg	NR	c2
+GSE18728	GSM465218	GPL570	pt19.or	neg	neg	neg	NR	or
+GSE18728	GSM465219	GPL570	pt20.or	neg	neg	neg	NR	or
+GSE18728	GSM465220	GPL570	pt20.c2	neg	neg	neg	NR	c2
+GSE18728	GSM465221	GPL570	pt20.bl	neg	neg	neg	NR	bl
+GSE18728	GSM465222	GPL570	pt12.or	pos	neg	focally pos	R	or
+GSE18728	GSM465223	GPL570	pt21.bl	neg	neg	neg	R	bl
+GSE18728	GSM465224	GPL570	pt22.c2	pos	pos	neg	R	c2
+GSE18728	GSM465225	GPL570	pt22.or	pos	pos	neg	R	or
+GSE18728	GSM465226	GPL570	pt23.c2	pos	neg	pos	NR	c2
+GSE18728	GSM465227	GPL570	pt23.or	pos	neg	pos	NR	or
+GSE18728	GSM465228	GPL570	pt24.bl	neg	neg	neg	NR	bl
+GSE18728	GSM465229	GPL570	pt24.or	neg	neg	neg	NR	or
+GSE18728	GSM465230	GPL570	pt25.bl	pos	neg	pos	R	bl
+GSE18728	GSM465231	GPL570	pt25.c2	pos	neg	pos	R	c2
+GSE18728	GSM465232	GPL570	pt26.or	pos	neg	pos	NR	or
+GSE18728	GSM465233	GPL570	pt26.bl	pos	neg	pos	NR	bl
+GSE18728	GSM465234	GPL570	pt26.c2	pos	neg	pos	NR	c2
+GSE18728	GSM465235	GPL570	pt27.bl	pos	pos	neg	R	bl
+GSE18728	GSM465236	GPL570	pt27.c2	pos	pos	pos	R	c2
+GSE18728	GSM465237	GPL570	pt28.bl	pos	neg	pos	NR	bl
+GSE18728	GSM465238	GPL570	pt28.or	pos	neg	pos	NR	or
+GSE18728	GSM465239	GPL570	pt29.c2	neg	pos	pos	NR	c2
+GSE18728	GSM465240	GPL570	pt29.bl	neg	pos	pos	NR	bl
+GSE18728	GSM465241	GPL570	pt29.or	neg	pos	pos	NR	or
+GSE18728	GSM465242	GPL570	pt30.c2	neg	neg	neg	R	c2
+GSE18728	GSM465243	GPL570	pt30.or	neg	neg	neg	R	or

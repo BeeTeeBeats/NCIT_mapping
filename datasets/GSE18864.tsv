@@ -1,0 +1,85 @@
+Dataset_ID	Sample_ID	Platform_ID	title	age	brca_genotype	er_status	pr_status	her2_status	grade	miller_payne_response	p53_status
+GSE18864	GSM467523	GPL570	Patient 1	59	WT	neg	neg	neg	III	3	unknown
+GSE18864	GSM467524	GPL570	Patient 2	49	WT	neg	neg	neg	III	4	MSM
+GSE18864	GSM467525	GPL570	Patient 3	39	WT	neg	neg	neg	III	5	NSM
+GSE18864	GSM467526	GPL570	Patient 4	68	WT	neg	neg	neg	III	1	MSM
+GSE18864	GSM467527	GPL570	Patient 5	44	BRCA1 germline mutation	neg	neg	neg	III	5	MSM
+GSE18864	GSM467528	GPL570	Patient 6	62	WT	neg	neg	neg	III	1	MSM
+GSE18864	GSM467529	GPL570	Patient 7	39	WT	neg	neg	neg	III	4	NSM
+GSE18864	GSM467530	GPL570	Patient 8	51	WT	neg	neg	neg	III	4	MSM
+GSE18864	GSM467531	GPL570	Patient 10	43	WT	neg	neg	neg	III	4	NSM
+GSE18864	GSM467532	GPL570	Patient 11	41	WT	neg	neg	neg	III	3	WT
+GSE18864	GSM467533	GPL570	Patient 12	53	WT	neg	neg	neg	III	1	WT
+GSE18864	GSM467534	GPL570	Patient 14	43	WT	neg	neg	neg	III	2	MSM
+GSE18864	GSM467535	GPL570	Patient 15	57	WT	neg	neg	neg	III	0	unknown
+GSE18864	GSM467536	GPL570	Patient 16	45	WT	neg	neg	neg	III	1	WT
+GSE18864	GSM467537	GPL570	Patient 17	52	WT	neg	neg	neg	III	5	WT
+GSE18864	GSM467538	GPL570	Patient 21	59	WT	neg	neg	neg	III	0	MSM
+GSE18864	GSM467539	GPL570	Patient 22	67	WT	neg	neg	neg	III	2	MSM
+GSE18864	GSM467540	GPL570	Patient 23	29	WT	neg	neg	neg	III	3	MSM
+GSE18864	GSM467541	GPL570	Patient 24	50	WT	neg	neg	neg	III	2	MSM
+GSE18864	GSM467542	GPL570	Patient 25	40	WT	neg	neg	neg	III	3	NSM
+GSE18864	GSM467543	GPL570	Patient 26	39	WT	neg	neg	neg	III	0	unknown
+GSE18864	GSM467544	GPL570	Patient 27	63	WT	neg	neg	neg	III	0	unknown
+GSE18864	GSM467545	GPL570	Patient 28	60	WT	neg	neg	neg	III	2	WT
+GSE18864	GSM467546	GPL570	Patient 29	44	WT	neg	neg	neg	III	5	NSM
+GSE18864	GSM467547	GPL570	Reference tumor 1	62	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467548	GPL570	Reference tumor 1 replicate	62	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467549	GPL570	Reference tumor 2	43	Unknown	pos	pos	pos	III	NA	n/d
+GSE18864	GSM467550	GPL570	Reference tumor 5	46	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467551	GPL570	Reference tumor 7	46	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467552	GPL570	Reference tumor 10	54	Unknown	pos	pos	pos	II	NA	n/d
+GSE18864	GSM467553	GPL570	Reference tumor 11	49	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467554	GPL570	Reference tumor 12	84	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467555	GPL570	Reference tumor 12 replicate	84	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467556	GPL570	Reference tumor 17	35	Unknown	pos	pos	pos	II	NA	n/d
+GSE18864	GSM467557	GPL570	Reference tumor 20	45	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467558	GPL570	Reference tumor 21	53	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467559	GPL570	Reference tumor 21 replicate	53	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467560	GPL570	Reference tumor 22	60	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467561	GPL570	Reference tumor 25	45	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467562	GPL570	Reference tumor 25 replicate	45	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467563	GPL570	Reference tumor 28	55	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467564	GPL570	Reference tumor 29	41	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467565	GPL570	Reference tumor 30	46	Unknown	pos	pos	neg	III	NA	n/d
+GSE18864	GSM467566	GPL570	Reference tumor 35	45	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467567	GPL570	Reference tumor 38	48	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467568	GPL570	Reference tumor 38 replicate	48	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467569	GPL570	Reference tumor 40	61	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467570	GPL570	Reference tumor 43	57	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467571	GPL570	Reference tumor 44	46	Unknown	pos	pos	neg	III	NA	n/d
+GSE18864	GSM467572	GPL570	Reference tumor 47	58	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467573	GPL570	Reference tumor 54	37	Unknown	pos	pos	pos	II	NA	n/d
+GSE18864	GSM467574	GPL570	Reference tumor 55	55	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467575	GPL570	Reference tumor 55 replicate	55	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467576	GPL570	Reference tumor 63	53	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467577	GPL570	Reference tumor 63 replicate	53	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467578	GPL570	Reference tumor 66	56	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467579	GPL570	Reference tumor 70	44	Unknown	pos	pos	pos	II	NA	n/d
+GSE18864	GSM467580	GPL570	Reference tumor 71	66	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467581	GPL570	Reference tumor 72	38	Unknown	pos	pos	neg	III	NA	n/d
+GSE18864	GSM467582	GPL570	Reference tumor 80	55	Unknown	pos	pos	neg	III	NA	n/d
+GSE18864	GSM467583	GPL570	Reference tumor 80 replicate	55	Unknown	pos	pos	neg	III	NA	n/d
+GSE18864	GSM467584	GPL570	Reference tumor 85	46	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467585	GPL570	Reference tumor 90	50	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467586	GPL570	Reference tumor 91	74	Unknown	pos	pos	neg	I	NA	n/d
+GSE18864	GSM467587	GPL570	Reference tumor 96	54	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467588	GPL570	Reference tumor 98	53	Unknown	pos	pos	neg	II	NA	n/d
+GSE18864	GSM467589	GPL570	Reference tumor 113	53	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467590	GPL570	Reference tumor 115	37	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467591	GPL570	Reference tumor 116	65	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467592	GPL570	Reference tumor 116 replicate	65	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467593	GPL570	Reference tumor 117	48	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467594	GPL570	Reference tumor 118	58	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467595	GPL570	Reference tumor 120	49	Unknown	neg	neg	unk	III	NA	n/d
+GSE18864	GSM467596	GPL570	Reference tumor 122	85	Unknown	neg	neg	pos	II	NA	n/d
+GSE18864	GSM467597	GPL570	Reference tumor 123	42	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467598	GPL570	Reference tumor 124	74	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467599	GPL570	Reference tumor 125	66	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467600	GPL570	Reference tumor 134	40	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467601	GPL570	Reference tumor 136	63	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467602	GPL570	Reference tumor 140	48	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467603	GPL570	Reference tumor 141	78	Unknown	neg	neg	neg	III	NA	n/d
+GSE18864	GSM467604	GPL570	Reference tumor 145	49	Unknown	neg	neg	pos	III	NA	n/d
+GSE18864	GSM467605	GPL570	Reference tumor 147	58	BRCA1 germline mutation	neg	neg	unk	III	NA	n/d
+GSE18864	GSM467606	GPL570	Reference tumor 187	54	Unknown	pos	pos	neg	II	NA	n/d

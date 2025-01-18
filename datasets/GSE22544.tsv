@@ -1,0 +1,21 @@
+Dataset_ID	Sample_ID	Platform_ID	Patient_ID	tissue_type
+GSE22544	GSM559616	GPL570	1	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559617	GPL570	2	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559618	GPL570	4	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559619	GPL570	4	normal
+GSE22544	GSM559620	GPL570	5	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559621	GPL570	6	node metastasis
+GSE22544	GSM559622	GPL570	7	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559623	GPL570	28	normal
+GSE22544	GSM559624	GPL570	29	normal
+GSE22544	GSM559625	GPL570	14	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559626	GPL570	15	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559627	GPL570	15	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559628	GPL570	15	normal
+GSE22544	GSM559629	GPL570	18	node metastasis
+GSE22544	GSM559630	GPL570	20	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559631	GPL570	22	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559632	GPL570	24	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559633	GPL570	25	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559634	GPL570	26	infiltrating ductal carcinoma (IDC)
+GSE22544	GSM559635	GPL570	27	infiltrating ductal carcinoma (IDC)

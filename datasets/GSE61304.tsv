@@ -1,0 +1,63 @@
+Dataset_ID	Sample_ID	Platform_ID	tumor_source	age_at_diagnosis	dfs_event	dfs_month	histology_group	distant_metastasis	er	mininal_stage_grouping	n_lymph_node_metastasis	pgr	t_extent_of_primary_tumor	tumor_grade
+GSE61304	GSM1501818	GPL570	breast tumor epithelium	70	0	58	Adenocarcinoma of breast, ductal	0	NA	IIB	N1	NA	T2	G2
+GSE61304	GSM1501819	GPL570	breast tumor epithelium	70	0	37	Adenocarcinoma of breast, ductal, mucinous	0	1	IIB	N1a	1	T2	G1
+GSE61304	GSM1501820	GPL570	normal breast epithelium	NA	NA	NA	Within normal limits	NA	NA	NA	NA	NA	NA	NA
+GSE61304	GSM1501821	GPL570	breast tumor epithelium	68	0	9	Adenocarcinoma of breast, ductal	0	1	IIA	N0	NA	T2	G3
+GSE61304	GSM1501822	GPL570	breast tumor epithelium	35	1	5	Adenocarcinoma of breast, ductal	1	0	IIA	N0	0	T2	G3
+GSE61304	GSM1501823	GPL570	breast tumor epithelium	47	0	13	Adenocarcinoma of breast, ductal	0	0	IIB	N1	NA	T2	G3
+GSE61304	GSM1501824	GPL570	breast tumor epithelium	57	1	35	Adenocarcinoma of breast, ductal	0	1	IIB	N1mi	1	T2	G3
+GSE61304	GSM1501825	GPL570	breast tumor epithelium	69	1	31	Adenocarcinoma of breast, ductal	1	1	IIIA	N2a	0	T1c	G3
+GSE61304	GSM1501826	GPL570	breast tumor epithelium	63	0	52	Adenocarcinoma of breast, ductal	0	0	IIIA	N2a	0	T1b	G2
+GSE61304	GSM1501827	GPL570	breast tumor epithelium	57	0	35	Adenocarcinoma of breast, ductal	0	1	IIA	N0 (i-)	1	T2	G2
+GSE61304	GSM1501828	GPL570	breast tumor epithelium	51	0	48	Adenocarcinoma of breast, ductal	0	0	IIA	N0	0	T2	G3
+GSE61304	GSM1501829	GPL570	breast tumor epithelium	54	0	13	Adenocarcinoma of breast, ductal, recurrent	0	0	IIA	N0	0	T2	G3
+GSE61304	GSM1501830	GPL570	breast tumor epithelium	76	0	48	Adenocarcinoma of breast, ductal	0	NA	IIIB	N1a	NA	T4	G1
+GSE61304	GSM1501831	GPL570	breast tumor epithelium	57	1	18	Adenocarcinoma of breast, ductal	1	0	IIB	N1a	0	T2	G2
+GSE61304	GSM1501832	GPL570	breast tumor epithelium	59	0	25	Adenocarcinoma of breast, ductal	0	1	IIA	N1a	0	T1c	G1
+GSE61304	GSM1501833	GPL570	breast tumor epithelium	48	0	34	Adenocarcinoma of breast, ductal	0	1	IIIA	N2a	1	T1c	G1
+GSE61304	GSM1501834	GPL570	breast tumor epithelium	63	1	0	Adenocarcinoma of breast, ductal	1	1	IIIA	N2a	1	T2	G2
+GSE61304	GSM1501835	GPL570	breast tumor epithelium	55	0	22	Adenocarcinoma of breast, ductal	0	EV	IIB	N1b	EV	T2	G2
+GSE61304	GSM1501836	GPL570	breast tumor epithelium	71	0	36	Adenocarcinoma of breast, ductal	0	1	IIB	N1c	1	T2	G3
+GSE61304	GSM1501837	GPL570	breast tumor epithelium	25	1	25	Adenocarcinoma of breast, ductal	1	0	IIIA	N1a	0	T3	G3
+GSE61304	GSM1501838	GPL570	breast tumor epithelium	48	0	58	Adenocarcinoma of breast, ductal	0	1	IIIA	N2	1	T1c	G1
+GSE61304	GSM1501839	GPL570	breast tumor epithelium	46	0	60	Adenocarcinoma of breast, ductal	0	1	IIIA	N2	1	TX	G2
+GSE61304	GSM1501840	GPL570	breast tumor epithelium	75	1	28	Adenocarcinoma of breast, ductal	1	0	IIA	N0	0	T2	G3
+GSE61304	GSM1501841	GPL570	breast tumor epithelium	38	0	60	Adenocarcinoma of breast, ductal	0	0	IIB	N1a	0	T2	G3
+GSE61304	GSM1501842	GPL570	breast tumor epithelium	50	0	8	Adenocarcinoma of breast, ductal	0	1	IIA	N1mi	NA	T1c	G2
+GSE61304	GSM1501843	GPL570	breast tumor epithelium	33	0	51	Adenocarcinoma of breast, ductal	0	0	IIB	N1mi	0	T2	G3
+GSE61304	GSM1501844	GPL570	breast tumor epithelium	37	0	65	Adenocarcinoma of breast, ductal	0	1	IIIC	N3b	0	T1c	G2
+GSE61304	GSM1501845	GPL570	breast tumor epithelium	47	0	35	Adenocarcinoma of breast, ductal	0	0	I	N0 (i-)	0	T1c	G3
+GSE61304	GSM1501846	GPL570	breast tumor epithelium	35	0	65	Adenocarcinoma of breast, ductal	0	1	IIA	N0 (i-)	0	T2	G3
+GSE61304	GSM1501847	GPL570	breast tumor epithelium	67	0	17	Adenocarcinoma of breast, ductal	0	1	IIA	N0 (i+)	1	T2	G3
+GSE61304	GSM1501848	GPL570	breast tumor epithelium	42	1	26	Adenocarcinoma of breast, ductal	0	0	IIA	N0 (i-)	0	T2	G3
+GSE61304	GSM1501849	GPL570	normal breast epithelium	NA	NA	NA	Within normal limits	NA	NA	NA	NA	NA	NA	NA
+GSE61304	GSM1501850	GPL570	breast tumor epithelium	44	0	16	Adenocarcinoma of breast, ductal	0	1	I	N0	1	T1c	G2
+GSE61304	GSM1501851	GPL570	breast tumor epithelium	54	0	85	Carcinoma of breast, squamous cell	0	NA	IIB	N1a	NA	T2	G3
+GSE61304	GSM1501852	GPL570	breast tumor epithelium	53	0	16	Adenocarcinoma of breast, ductal	0	1	IIA	N0	1	T2	G3
+GSE61304	GSM1501853	GPL570	breast tumor epithelium	34	1	61	Adenocarcinoma of breast, ductal	0	0	IIIA	N1a	0	T3	G3
+GSE61304	GSM1501854	GPL570	breast tumor epithelium	56	0	18	Adenocarcinoma of breast, ductal	0	0	I	N0	NA	T1c	G3
+GSE61304	GSM1501855	GPL570	breast tumor epithelium	51	1	16	Adenocarcinoma of breast, ductal	1	0	IV	N1biii	1	T3	G3
+GSE61304	GSM1501856	GPL570	breast tumor epithelium	60	0	16	Adenocarcinoma of breast, lobular	0	1	IIB	N1	NA	T2	G2
+GSE61304	GSM1501857	GPL570	breast tumor epithelium	67	1	29	Adenocarcinoma of breast, ductal	1	1	IIB	N1bi	1	T2	G3
+GSE61304	GSM1501858	GPL570	breast tumor epithelium	51	1	21	Adenocarcinoma of breast, ductal	1	0	IIB	N0	NA	T3	G3
+GSE61304	GSM1501859	GPL570	breast tumor epithelium	42	1	15	Adenocarcinoma of breast, ductal	NA	0	IIB	N1bi	NA	T2	G3
+GSE61304	GSM1501860	GPL570	breast tumor epithelium	63	0	12	Adenocarcinoma of breast, ductal	0	1	IIA	N0	1	T2	G3
+GSE61304	GSM1501861	GPL570	breast tumor epithelium	56	0	13	Adenocarcinoma of breast, ductal	0	0	IIB	N1biii	0	T2	G3
+GSE61304	GSM1501862	GPL570	breast tumor epithelium	63	0	12	Adenocarcinoma of breast, ductal	0	1	IIA	N0	1	T2	G3
+GSE61304	GSM1501863	GPL570	breast tumor epithelium	37	0	51	Adenocarcinoma of breast, ductal, medullary features	0	0	IIA	N0 (i-)	0	T2	G3
+GSE61304	GSM1501864	GPL570	breast tumor epithelium	68	1	5	Adenocarcinoma of breast, ductal	1	0	IIIC	N3	NA	T2	G3
+GSE61304	GSM1501865	GPL570	normal breast epithelium	NA	NA	NA	Within normal limits	NA	NA	NA	NA	NA	NA	NA
+GSE61304	GSM1501866	GPL570	breast tumor epithelium	54	0	15	Adenocarcinoma of breast, ductal, lobular features	0	1	IIIA	N2a	1	T3	G3
+GSE61304	GSM1501867	GPL570	breast tumor epithelium	40	0	47	Adenocarcinoma of breast, ductal	0	0	IIIA	N2a	0	T2	G3
+GSE61304	GSM1501868	GPL570	breast tumor epithelium	57	1	1	Adenocarcinoma of breast, ductal	1	0	IIB	N1a	0	T2	G3
+GSE61304	GSM1501869	GPL570	breast tumor epithelium	81	1	31	Adenocarcinoma of breast, ductal	1	1	IIIC	N3a	1	T1b	G2
+GSE61304	GSM1501870	GPL570	breast tumor epithelium	80	0	45	Adenocarcinoma of breast, ductal	0	1	IIB	NX	1	T3	G2
+GSE61304	GSM1501871	GPL570	breast tumor epithelium	50	1	17	Adenocarcinoma of breast, ductal	1	NA	IIIC	N3a	NA	T3	G3
+GSE61304	GSM1501872	GPL570	breast tumor epithelium	66	0	30	Adenocarcinoma of breast, ductal	0	1	IIA	N0	1	T2	G2
+GSE61304	GSM1501873	GPL570	breast tumor epithelium	66	1	25	Adenocarcinoma of breast, ductal	1	0	IIIA	N2a	0	T3	G3
+GSE61304	GSM1501874	GPL570	breast tumor epithelium	60	1	19	Adenocarcinoma of breast, ductal	1	0	IIIC	N3a	0	T2	G3
+GSE61304	GSM1501875	GPL570	breast tumor epithelium	62	0	37	Adenocarcinoma of breast, ductal	0	1	I	N0 (i-)	1	T1c	G2
+GSE61304	GSM1501876	GPL570	breast tumor epithelium	76	0	48	Adenocarcinoma of breast, ductal	0	1	I	N0 (i-)	1	T1c	G3
+GSE61304	GSM1501877	GPL570	breast tumor epithelium	39	1	15	Adenocarcinoma of breast, ductal	0	0	IIB	N1	0	T2	G3
+GSE61304	GSM1501878	GPL570	breast tumor epithelium	64	0	26	Adenocarcinoma of breast, ductal	0	1	IIIC	N3a	1	T2	G2
+GSE61304	GSM1501879	GPL570	normal breast epithelium	NA	NA	NA	Within normal limits	NA	NA	NA	NA	NA	NA	NA

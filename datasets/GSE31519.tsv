@@ -1,0 +1,68 @@
+Dataset_ID	Sample_ID	Platform_ID	biopsy_type	chemotherapy_treatment_yes_no	cohort	event	event_free_interval_months	grade	lymph_node_status	neoadjuvant_chemotherapy_yes_no	breast_cancer_subtype	tumor_size
+GSE31519	GSM782523	GPL96	 surgical	NO	HH	 no	93	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782524	GPL96	 surgical	NO	HH	 no	37	 G1 or G2	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782525	GPL96	 surgical	NO	HH	 no	31	 G1 or G2	positive	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782526	GPL96	 surgical	NO	HH	NA	NA	NA	negative	NO	triple-negative breast cancer	NA
+GSE31519	GSM782527	GPL96	 surgical	NO	HH	NA	NA	NA	positive	NO	triple-negative breast cancer	NA
+GSE31519	GSM782528	GPL96	 surgical	NO	HH	 no	120	 G1 or G2	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782529	GPL96	 surgical	NO	HH	 yes	25	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782530	GPL96	 surgical	YES	FRA	 yes	23	 G1 or G2	positive	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782531	GPL96	 surgical	YES	FRA	 yes	21	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782532	GPL96	 surgical	YES	FRA	 no	45	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782533	GPL96	 surgical	YES	FRA	 yes	45	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782534	GPL96	 surgical	YES	FRA	 no	52	 G3	NA	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782535	GPL96	 surgical	YES	FRA	 yes	16	 G3	positive	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782536	GPL96	 surgical	YES	FRA	 no	70	 G1 or G2	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782537	GPL96	 surgical	YES	FRA	 no	77	 G1 or G2	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782538	GPL96	 surgical	YES	FRA	 no	47	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782539	GPL96	 surgical	YES	FRA	 yes	11	 G3	positive	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782540	GPL96	 surgical	YES	FRA	 no	76	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782541	GPL96	 surgical	YES	FRA	 no	69	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782542	GPL96	 surgical	YES	FRA	 no	28	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782543	GPL96	 surgical	YES	FRA	 no	34	 G1 or G2	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782544	GPL96	 surgical	YES	FRA	 yes	10	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782545	GPL96	 surgical	YES	FRA	 no	29	 G3	positive	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782546	GPL96	 surgical	YES	FRA	 no	36	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782547	GPL96	 surgical	YES	FRA	 no	31	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782548	GPL96	 surgical	YES	FRA	 no	36	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782549	GPL96	 surgical	YES	FRA	 yes	6	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782550	GPL96	 surgical	YES	FRA	 no	33	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782551	GPL96	 surgical	YES	FRA	 yes	10	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782552	GPL96	 surgical	YES	FRA	 no	27	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782553	GPL96	 surgical	YES	FRA	 no	45	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782554	GPL96	 surgical	YES	HH	 yes	6	 G3	positive	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782555	GPL96	 surgical	YES	HH	 no	67	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782556	GPL96	 surgical	YES	HH	 yes	11	 G3	positive	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782557	GPL96	 surgical	YES	HH	 no	51	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782558	GPL96	 surgical	YES	HH	 no	48	 G1 or G2	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782559	GPL96	 surgical	YES	HH	 no	58	 G3	positive	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782560	GPL96	 surgical	YES	HH	 yes	3	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782561	GPL96	 surgical	YES	HH	 no	48	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782562	GPL96	 surgical	YES	HH	 yes	10	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782563	GPL96	 surgical	YES	HH	 no	120	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782564	GPL96	 surgical	YES	HH	 yes	74	 G3	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782565	GPL96	 surgical	YES	HH	 no	104	NA	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782566	GPL96	 surgical	YES	HH	 yes	22	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782567	GPL96	 surgical	YES	HH	 no	53	 G1 or G2	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782568	GPL96	 surgical	YES	HH	 yes	37	 G3	negative	NO	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782569	GPL96	 core needle	YES	FRA-2	 yes	11	 G1 or G2	negative	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782570	GPL96	 core needle	YES	FRA-2	 yes	39	 G3	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782571	GPL96	 core needle	YES	FRA-2	 no	45	 G3	negative	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782572	GPL96	 core needle	YES	FRA-2	 no	45	 G1 or G2	negative	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782573	GPL96	 core needle	YES	FRA-2	 yes	23	 G1 or G2	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782574	GPL96	 core needle	YES	FRA-2	 yes	34	 G1 or G2	negative	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782575	GPL96	 core needle	YES	FRA-2	 yes	15	 G3	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782576	GPL96	 core needle	YES	FRA-2	 no	51	 G3	negative	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782577	GPL96	 core needle	YES	FRA-2	 no	44	 G1 or G2	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782578	GPL96	 core needle	YES	FRA-2	 no	30	 G3	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782579	GPL96	 core needle	YES	FRA-2	 no	27	 G1 or G2	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782580	GPL96	 core needle	YES	FRA-2	 no	26	 G1 or G2	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782581	GPL96	 core needle	YES	FRA-2	 no	25	 G3	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782582	GPL96	 core needle	YES	FRA-2	 yes	10	 G3	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782583	GPL96	 core needle	YES	FRA-2	NA	NA	NA	NA	YES	triple-negative breast cancer	NA
+GSE31519	GSM782584	GPL96	 core needle	YES	FRA-2	 no	23	 G3	negative	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782585	GPL96	 core needle	YES	FRA-2	 no	23	 G3	negative	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782586	GPL96	 core needle	YES	FRA-2	 no	23	 G3	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782587	GPL96	 core needle	YES	FRA-2	 no	24	 G1 or G2	positive	YES	triple-negative breast cancer	 greater than 1 cm
+GSE31519	GSM782588	GPL96	 surgical	NO	FRA-3	 no	56	 G1 or G2	negative	NO	triple-negative breast cancer	 up to 1 cm
+GSE31519	GSM782589	GPL96	 surgical	NO	FRA-3	 yes	66	 G3	positive	NO	triple-negative breast cancer	 greater than 1 cm

@@ -1,0 +1,48 @@
+Dataset_ID	Sample_ID	Platform_ID	Patient_ID	er_status	pr_status	age	nodal_status
+GSE8193	GSM202716	GPL4685	breast tumor-b0307	estrogen receptor (ER)+	progesterone receptor (PR)+	76	N0
+GSE8193	GSM202717	GPL4685	breast tumor-b0335	estrogen receptor (ER)+	progesterone receptor (PR)+	40	N0
+GSE8193	GSM202718	GPL4685	breast tumor-b0417	estrogen receptor (ER)+	progesterone receptor (PR)+	37	N0
+GSE8193	GSM202719	GPL4685	breast tumor-b0463	estrogen receptor (ER)+	progesterone receptor (PR)+	40	N0
+GSE8193	GSM202720	GPL4685	breast tumor-b0472	estrogen receptor (ER)+	progesterone receptor (PR)+	77	N0
+GSE8193	GSM202721	GPL4685	breast tumor-b0473	estrogen receptor (ER)+	progesterone receptor (PR)+	77	N0
+GSE8193	GSM202722	GPL4685	breast tumor - b0484	estrogen receptor (ER)+	progesterone receptor (PR)+	87	N0
+GSE8193	GSM202723	GPL4685	breast tumor - I005	estrogen receptor (ER)+	progesterone receptor (PR)+	37	N+
+GSE8193	GSM202724	GPL4685	breast tumor - I007	estrogen receptor (ER)+	progesterone receptor (PR)+	39	N0
+GSE8193	GSM202725	GPL4685	breast tumor - I019	estrogen receptor (ER)+	progesterone receptor (PR)+	44	N+
+GSE8193	GSM202726	GPL4685	breast tumor - I046	estrogen receptor (ER)+	progesterone receptor (PR)+	73	N0
+GSE8193	GSM202727	GPL4685	breast tumor - I050	estrogen receptor (ER)+	progesterone receptor (PR)-	39	N+
+GSE8193	GSM202728	GPL4685	breast tumor - I055	estrogen receptor (ER)+	progesterone receptor (PR)+	40	N0
+GSE8193	GSM202729	GPL4685	breast tumor - I083	estrogen receptor (ER)+	progesterone receptor (PR)+	31	N+
+GSE8193	GSM202730	GPL4685	breast tumor - I090	estrogen receptor (ER)+	progesterone receptor (PR)+	72	N0
+GSE8193	GSM202731	GPL4685	breast tumor - I097	estrogen receptor (ER)+	progesterone receptor (PR)+	83	N?
+GSE8193	GSM202732	GPL4685	breast tumor - I099	estrogen receptor (ER)+	progesterone receptor (PR)+	79	N?
+GSE8193	GSM202733	GPL4685	breast tumor - I101	estrogen receptor (ER)+	progesterone receptor (PR)-	80	N?
+GSE8193	GSM202734	GPL4685	breast tumor - I108	estrogen receptor (ER)+	progesterone receptor (PR)+	37	N+
+GSE8193	GSM202735	GPL4685	breast tumor - I129	estrogen receptor (ER)+	progesterone receptor (PR)-	72	N+
+GSE8193	GSM202736	GPL4685	breast tumor - I130	estrogen receptor (ER)+	progesterone receptor (PR)+	41	N0
+GSE8193	GSM202737	GPL4685	breast tumor - I131	estrogen receptor (ER)+	progesterone receptor (PR)+	42	N+
+GSE8193	GSM202738	GPL4685	breast tumor - I139	estrogen receptor (ER)+	progesterone receptor (PR)-	41	N0
+GSE8193	GSM202739	GPL4685	breast tumor - I151	estrogen receptor (ER)+	progesterone receptor (PR)+	33	N+
+GSE8193	GSM202740	GPL4685	breast tumor - I153	estrogen receptor (ER)+	progesterone receptor (PR)+	78	N+
+GSE8193	GSM202741	GPL4685	breast tumor - I180	estrogen receptor (ER)+	progesterone receptor (PR)-	72	N+
+GSE8193	GSM202742	GPL4685	breast tumor - I189	estrogen receptor (ER)+	progesterone receptor (PR)-	73	N+
+GSE8193	GSM202743	GPL4685	breast tumor - I218	estrogen receptor (ER)+	progesterone receptor (PR)-	80	N?
+GSE8193	GSM202744	GPL4685	breast tumor - I222	estrogen receptor (ER)+	progesterone receptor (PR)-	80	N0
+GSE8193	GSM202745	GPL4685	breast tumor - I227	estrogen receptor (ER)+	progesterone receptor (PR)+	71	N+
+GSE8193	GSM202746	GPL4685	breast tumor - I242	estrogen receptor (ER)+	progesterone receptor (PR)+	34	N+
+GSE8193	GSM202747	GPL4685	breast tumor - I261	estrogen receptor (ER)+	progesterone receptor (PR)+	45	N+
+GSE8193	GSM202748	GPL4685	breast tumor - I263	estrogen receptor (ER)+	progesterone receptor (PR)+	40	N0
+GSE8193	GSM202749	GPL4685	breast tumor - I272	estrogen receptor (ER)+	progesterone receptor (PR)+	74	N+
+GSE8193	GSM202750	GPL4685	breast tumor - I282	estrogen receptor (ER)+	progesterone receptor (PR)+	39	N0
+GSE8193	GSM202751	GPL4685	breast tumor - I289	estrogen receptor (ER)+	progesterone receptor (PR)+	74	N0
+GSE8193	GSM202752	GPL4685	breast tumor - I312	estrogen receptor (ER)+	progesterone receptor (PR)-	38	N+
+GSE8193	GSM202753	GPL4685	breast tumor - I317	estrogen receptor (ER)+	progesterone receptor (PR)-	80	N+
+GSE8193	GSM202754	GPL4685	breast tumor - I370	estrogen receptor (ER)+	progesterone receptor (PR)-	78	N0
+GSE8193	GSM202755	GPL4685	breast tumor - I427	estrogen receptor (ER)+	progesterone receptor (PR)+	45	N+
+GSE8193	GSM202756	GPL4685	breast tumor - I500	estrogen receptor (ER)+	progesterone receptor (PR)-	43	N0
+GSE8193	GSM202757	GPL4685	breast tumor - I503	estrogen receptor (ER)+	progesterone receptor (PR)-	72	N+
+GSE8193	GSM202758	GPL4685	breast tumor - s0166	estrogen receptor (ER)+	progesterone receptor (PR)+	70	N0
+GSE8193	GSM202759	GPL4685	breast tumor - s0372	estrogen receptor (ER)+	progesterone receptor (PR)+	44	N0
+GSE8193	GSM202760	GPL4685	breast tumor - s0395	estrogen receptor (ER)+	progesterone receptor (PR)-	41	N0
+GSE8193	GSM202761	GPL4685	breast tumor - s1748	estrogen receptor (ER)+	progesterone receptor (PR)+	40	N0
+GSE8193	GSM202762	GPL4685	breast tumor - s1777	estrogen receptor (ER)+	progesterone receptor (PR)+	76	N0

@@ -1,0 +1,30 @@
+Dataset_ID	Sample_ID	Platform_ID	age_at_biopsy_years	disease_state	patient_id	tissue_type
+GSE9574	GSM241999	GPL96	52	normal (reduction mammoplasty)	288	breast epithlieum
+GSE9574	GSM242000	GPL96	44	normal (reduction mammoplasty)	278	breast epithlieum
+GSE9574	GSM242001	GPL96	49	normal (reduction mammoplasty)	309	breast epithlieum
+GSE9574	GSM242002	GPL96	60	normal (reduction mammoplasty)	310	breast epithlieum
+GSE9574	GSM242003	GPL96	49	normal (reduction mammoplasty)	314	breast epithlieum
+GSE9574	GSM242004	GPL96	42	normal (reduction mammoplasty)	334	breast epithlieum
+GSE9574	GSM242005	GPL96	41	normal (reduction mammoplasty)	340	breast epithlieum
+GSE9574	GSM242006	GPL96	47	normal (reduction mammoplasty)	350	breast epithlieum
+GSE9574	GSM242007	GPL96	49	normal (reduction mammoplasty)	357	breast epithlieum
+GSE9574	GSM242008	GPL96	43	normal (reduction mammoplasty)	347	breast epithlieum
+GSE9574	GSM242009	GPL96	41	normal (reduction mammoplasty)	352	breast epithlieum
+GSE9574	GSM242010	GPL96	57	normal (reduction mammoplasty)	361	breast epithlieum
+GSE9574	GSM242011	GPL96	39	normal (reduction mammoplasty)	328	breast epithlieum
+GSE9574	GSM242012	GPL96	36	normal (reduction mammoplasty)	360	breast epithlieum
+GSE9574	GSM242013	GPL96	49	normal (reduction mammoplasty)	368	breast epithlieum
+GSE9574	GSM242014	GPL96	45	breast cancer	251	breast epithlieum
+GSE9574	GSM242015	GPL96	38	breast cancer	318	breast epithlieum
+GSE9574	GSM242016	GPL96	34	breast cancer	320	breast epithlieum
+GSE9574	GSM242017	GPL96	48	breast cancer	359	breast epithlieum
+GSE9574	GSM242018	GPL96	46	breast cancer	297B	breast epithlieum
+GSE9574	GSM242019	GPL96	39	breast cancer	316	breast epithlieum
+GSE9574	GSM242020	GPL96	49	breast cancer	304B	breast epithlieum
+GSE9574	GSM242021	GPL96	35	breast cancer	351	breast epithlieum
+GSE9574	GSM242022	GPL96	49	breast cancer	248	breast epithlieum
+GSE9574	GSM242023	GPL96	61	breast cancer	226	breast epithlieum
+GSE9574	GSM242024	GPL96	65	breast cancer	258	breast epithlieum
+GSE9574	GSM242025	GPL96	49	breast cancer	274	breast epithlieum
+GSE9574	GSM242026	GPL96	59	breast cancer	232	breast epithlieum
+GSE9574	GSM242027	GPL96	55	breast cancer	237	breast epithlieum

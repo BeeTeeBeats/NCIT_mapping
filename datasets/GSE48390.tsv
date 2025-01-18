@@ -1,0 +1,82 @@
+Dataset_ID	Sample_ID	Platform_ID	er	event	her2	hu306_classification	status	survival_time_year
+GSE48390	GSM1176873	GPL570	positive	disease-free	normal	Luminal A	alive	5.50
+GSE48390	GSM1176874	GPL570	positive	disease-free	normal	Luminal A	alive	4.17
+GSE48390	GSM1176875	GPL570	positive	disease-free	normal	Luminal A	alive	4.08
+GSE48390	GSM1176876	GPL570	positive	disease-free	normal	Normal breast-like	alive	5.67
+GSE48390	GSM1176877	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	normal	HER2-enriched	death	0.08
+GSE48390	GSM1176878	GPL570	positive	disease-free	over-expression	Uncla	alive	3.67
+GSE48390	GSM1176879	GPL570	positive	disease-free	over-expression	Luminal B	alive	3.67
+GSE48390	GSM1176880	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	normal	Basal-like subtype	alive	2.08
+GSE48390	GSM1176881	GPL570	negative	disease-free	over-expression	Normal breast-like	alive	3.58
+GSE48390	GSM1176882	GPL570	negative	disease-free	over-expression	Basal-like subtype	alive	3.08
+GSE48390	GSM1176883	GPL570	positive	recurrence, metastasis,  or disease-specific mortality	normal	Luminal B	alive	2.08
+GSE48390	GSM1176884	GPL570	positive	disease-free	normal	Luminal A	alive	3.17
+GSE48390	GSM1176885	GPL570	negative	disease-free	over-expression	HER2-enriched	alive	5.58
+GSE48390	GSM1176886	GPL570	negative	disease-free	over-expression	Normal breast-like	alive	2.17
+GSE48390	GSM1176887	GPL570	negative	disease-free	over-expression	Normal breast-like	alive	1.25
+GSE48390	GSM1176888	GPL570	positive	disease-free	over-expression	HER2-enriched	alive	5.50
+GSE48390	GSM1176889	GPL570	positive	recurrence, metastasis,  or disease-specific mortality	over-expression	HER2-enriched	death	1.67
+GSE48390	GSM1176890	GPL570	negative	disease-free	over-expression	HER2-enriched	alive	1.75
+GSE48390	GSM1176891	GPL570	positive	disease-free	over-expression	Luminal A	alive	2.67
+GSE48390	GSM1176892	GPL570	negative	disease-free	normal	Basal-like subtype	alive	5.58
+GSE48390	GSM1176893	GPL570	positive	disease-free	normal	Luminal A	alive	5.67
+GSE48390	GSM1176894	GPL570	positive	disease-free	normal	Luminal A	alive	5.67
+GSE48390	GSM1176895	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	normal	Normal breast-like	alive	5.00
+GSE48390	GSM1176896	GPL570	negative	disease-free	over-expression	HER2-enriched	alive	4.00
+GSE48390	GSM1176897	GPL570	positive	disease-free	over-expression	HER2-enriched	alive	4.75
+GSE48390	GSM1176898	GPL570	positive	recurrence, metastasis,  or disease-specific mortality	normal	Normal breast-like	death	3.42
+GSE48390	GSM1176899	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	over-expression	HER2-enriched	death	1.33
+GSE48390	GSM1176900	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	normal	Normal breast-like	death	1.75
+GSE48390	GSM1176901	GPL570	positive	disease-free	over-expression	HER2-enriched	alive	5.00
+GSE48390	GSM1176902	GPL570	positive	disease-free	over-expression	Luminal B	alive	4.92
+GSE48390	GSM1176903	GPL570	negative	disease-free	normal	Basal-like subtype	alive	4.92
+GSE48390	GSM1176904	GPL570	positive	disease-free	normal	Luminal B	alive	5.58
+GSE48390	GSM1176905	GPL570	positive	disease-free	normal	Luminal B	alive	4.92
+GSE48390	GSM1176906	GPL570	negative	disease-free	over-expression	HER2-enriched	alive	5.00
+GSE48390	GSM1176907	GPL570	negative	disease-free	over-expression	HER2-enriched	alive	4.67
+GSE48390	GSM1176908	GPL570	positive	disease-free	normal	Luminal A	alive	4.75
+GSE48390	GSM1176909	GPL570	negative	disease-free	normal	Basal-like subtype	alive	4.83
+GSE48390	GSM1176910	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	over-expression	Normal breast-like	death	1.58
+GSE48390	GSM1176911	GPL570	positive	disease-free	normal	Normal breast-like	alive	5.75
+GSE48390	GSM1176912	GPL570	negative	disease-free	normal	Basal-like subtype	alive	4.50
+GSE48390	GSM1176913	GPL570	positive	disease-free	normal	Normal breast-like	alive	4.17
+GSE48390	GSM1176914	GPL570	positive	disease-free	normal	Luminal A	alive	4.08
+GSE48390	GSM1176915	GPL570	positive	disease-free	over-expression	HER2-enriched	alive	3.83
+GSE48390	GSM1176916	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	normal	Basal-like subtype	death	1.08
+GSE48390	GSM1176917	GPL570	positive	disease-free	over-expression	Luminal B	alive	4.58
+GSE48390	GSM1176918	GPL570	positive	disease-free	normal	Normal breast-like	alive	4.58
+GSE48390	GSM1176919	GPL570	negative	disease-free	over-expression	Basal-like subtype	alive	4.58
+GSE48390	GSM1176920	GPL570	negative	recurrence, metastasis,  or disease-specific mortality	over-expression	Basal-like subtype	death	1.17
+GSE48390	GSM1176921	GPL570	positive	disease-free	normal	Uncla	alive	4.25
+GSE48390	GSM1176922	GPL570	positive	disease-free	normal	Luminal B	alive	4.25
+GSE48390	GSM1176923	GPL570	positive	disease-free	normal	Luminal A	alive	2.58
+GSE48390	GSM1176924	GPL570	positive	disease-free	normal	Luminal A	alive	4.50
+GSE48390	GSM1176925	GPL570	positive	disease-free	over-expression	Luminal A	alive	4.50
+GSE48390	GSM1176926	GPL570	positive	recurrence, metastasis,  or disease-specific mortality	normal	Luminal A	death	3.42
+GSE48390	GSM1176927	GPL570	positive	disease-free	over-expression	Luminal B	alive	3.83
+GSE48390	GSM1176928	GPL570	positive	disease-free	normal	Luminal A	alive	2.83
+GSE48390	GSM1176929	GPL570	positive	disease-free	normal	Luminal B	alive	4.58
+GSE48390	GSM1176930	GPL570	negative	disease-free	over-expression	HER2-enriched	alive	4.17
+GSE48390	GSM1176931	GPL570	positive	recurrence, metastasis,  or disease-specific mortality	normal	Luminal B	death	2.17
+GSE48390	GSM1176932	GPL570	negative	disease-free	normal	Uncla	alive	2.92
+GSE48390	GSM1176933	GPL570	positive	disease-free	normal	Uncla	alive	4.67
+GSE48390	GSM1176934	GPL570	negative	disease-free	over-expression	HER2-enriched	alive	0.50
+GSE48390	GSM1176935	GPL570	negative	disease-free	over-expression	Uncla	alive	4.17
+GSE48390	GSM1176936	GPL570	positive	disease-free	normal	Luminal A	alive	4.50
+GSE48390	GSM1176937	GPL570	positive	disease-free	normal	Luminal A	alive	4.50
+GSE48390	GSM1176938	GPL570	positive	disease-free	normal	Luminal A	alive	4.42
+GSE48390	GSM1176939	GPL570	positive	disease-free	normal	Luminal B	alive	4.33
+GSE48390	GSM1176940	GPL570	positive	disease-free	over-expression	Luminal B	alive	4.25
+GSE48390	GSM1176941	GPL570	positive	disease-free	normal	Luminal A	alive	3.00
+GSE48390	GSM1176942	GPL570	positive	disease-free	normal	Luminal A	alive	2.92
+GSE48390	GSM1176943	GPL570	positive	disease-free	normal	Luminal B	alive	4.67
+GSE48390	GSM1176944	GPL570	positive	disease-free	over-expression	Normal breast-like	alive	2.50
+GSE48390	GSM1176945	GPL570	positive	disease-free	over-expression	Luminal B	alive	4.08
+GSE48390	GSM1176946	GPL570	positive	disease-free	normal	Uncla	alive	4.25
+GSE48390	GSM1176947	GPL570	positive	disease-free	over-expression	Luminal B	alive	0.08
+GSE48390	GSM1176948	GPL570	positive	disease-free	normal	Uncla	alive	3.25
+GSE48390	GSM1176949	GPL570	positive	disease-free	normal	Luminal A	alive	4.33
+GSE48390	GSM1176950	GPL570	positive	disease-free	normal	Luminal A	death	2.42
+GSE48390	GSM1176951	GPL570	negative	disease-free	over-expression	Normal breast-like	alive	4.33
+GSE48390	GSM1176952	GPL570	positive	disease-free	normal	Luminal A	alive	4.25
+GSE48390	GSM1176953	GPL570	negative	disease-free	over-expression	Basal-like subtype	alive	4.00

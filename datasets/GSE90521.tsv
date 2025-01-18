@@ -1,0 +1,18 @@
+Dataset_ID	Sample_ID	Platform_ID	age	er	gender	grade	group	her2	maximum_tumor_size_cm	pgr	pn_stage	pt_stage	tissue	type
+GSE90521	GSM2405967	GPL570	27	Negative	Female	3	young	Negative	2.3	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405968	GPL570	30	Negative	Female	3	young	Negative	2.5	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405969	GPL570	32	Negative	Female	3	young	Negative	2.2	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405970	GPL570	33	Negative	Female	3	young	Negative	2.8	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405971	GPL570	39	Negative	Female	3	young	Negative	3.0	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405972	GPL570	43	Negative	Female	3	young	Negative	3.0	Negative	2a	2	stromal micromilieu	ductal
+GSE90521	GSM2405973	GPL570	44	Negative	Female	3	young	Negative	2.8	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405974	GPL570	44	Negative	Female	3	young	Negative	3.5	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405975	GPL570	44	Negative	Female	3	young	Negative	3.0	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405976	GPL570	80	Negative	Female	3	old	Negative	4.0	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405977	GPL570	82	Negative	Female	3	old	Negative	3.5	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405978	GPL570	82	Negative	Female	3	old	Negative	1.5	Negative	0	1c	stromal micromilieu	ductal
+GSE90521	GSM2405979	GPL570	82	Negative	Female	2	old	Negative	3.0	Negative	3a	2	stromal micromilieu	ductal
+GSE90521	GSM2405980	GPL570	83	Negative	Female	3	old	Negative	3.8	Negative	1a	2	stromal micromilieu	ductal
+GSE90521	GSM2405981	GPL570	83	Negative	Female	3	old	Negative	3.2	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405982	GPL570	86	Negative	Female	3	old	Negative	3.0	Negative	0	2	stromal micromilieu	ductal
+GSE90521	GSM2405983	GPL570	87	Negative	Female	3	old	Negative	2.0	Negative	0	1c	stromal micromilieu	ductal

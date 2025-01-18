@@ -1,0 +1,11 @@
+Dataset_ID	Sample_ID	Platform_ID	breast_tumor_stage	Patient_ID	replicate	tissue
+GSE25407	GSM623902	GPL570	NA	1	1	breast reduction mammoplasty tissue explant
+GSE25407	GSM623903	GPL570	NA	5	1	breast reduction mammoplasty tissue explant
+GSE25407	GSM623904	GPL570	NA	6	1	breast reduction mammoplasty tissue explant
+GSE25407	GSM623905	GPL570	NA	6	2	breast reduction mammoplasty tissue explant
+GSE25407	GSM623906	GPL570	NA	6	3	breast reduction mammoplasty tissue explant
+GSE25407	GSM623907	GPL570	stage I	4	1	breast tumor explant
+GSE25407	GSM623908	GPL570	stage I	8	1	breast tumor explant
+GSE25407	GSM623909	GPL570	stage I	8	2	breast tumor explant
+GSE25407	GSM623910	GPL570	stage I	8	3	breast tumor explant
+GSE25407	GSM623911	GPL570	stage I	33	1	breast tumor explant

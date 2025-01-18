@@ -1,0 +1,46 @@
+Dataset_ID	Sample_ID	Platform_ID	phenotype	subject	tissue_compartment
+GSE33692	GSM832943	GPL5175	ductal carcinoma in situ	DCIS 01	stroma
+GSE33692	GSM832944	GPL5175	ductal carcinoma in situ	DCIS 05	stroma
+GSE33692	GSM832945	GPL5175	invasive breast cancer	IDC 03	stroma
+GSE33692	GSM832946	GPL5175	invasive breast cancer	IDC 04	stroma
+GSE33692	GSM832947	GPL5175	invasive breast cancer	IDC 07	stroma
+GSE33692	GSM832948	GPL5175	ductal carcinoma in situ	DCIS 09	stroma
+GSE33692	GSM832949	GPL5175	ductal carcinoma in situ	DCIS 10	stroma
+GSE33692	GSM832950	GPL5175	ductal carcinoma in situ	DCIS 11	stroma
+GSE33692	GSM832951	GPL5175	ductal carcinoma in situ	DCIS 12	stroma
+GSE33692	GSM832952	GPL5175	invasive breast cancer	IDC 13	stroma
+GSE33692	GSM832953	GPL5175	invasive breast cancer	IDC 14	stroma
+GSE33692	GSM832954	GPL5175	invasive breast cancer	IDC 15	stroma
+GSE33692	GSM832955	GPL5175	ductal carcinoma in situ	DCIS 01	epithelium
+GSE33692	GSM832956	GPL5175	ductal carcinoma in situ	DCIS 05	epithelium
+GSE33692	GSM832957	GPL5175	ductal carcinoma in situ	DCIS 09	epithelium
+GSE33692	GSM832958	GPL5175	ductal carcinoma in situ	DCIS 10	epithelium
+GSE33692	GSM832959	GPL5175	ductal carcinoma in situ	DCIS 11	epithelium
+GSE33692	GSM832960	GPL5175	ductal carcinoma in situ	DCIS 12	epithelium
+GSE33692	GSM832961	GPL5175	invasive breast cancer	IDC 03	epithelium
+GSE33692	GSM832962	GPL5175	invasive breast cancer	IDC 04	epithelium
+GSE33692	GSM832963	GPL5175	invasive breast cancer	IDC 07	epithelium
+GSE33692	GSM832964	GPL5175	invasive breast cancer	IDC 13	epithelium
+GSE33692	GSM832965	GPL5175	invasive breast cancer	IDC 14	epithelium
+GSE33692	GSM832966	GPL5175	invasive breast cancer	IDC 15	epithelium
+GSE33692	GSM832967	GPL5175	ductal carcinoma in situ	DCIS 02	epithelium
+GSE33692	GSM832968	GPL5175	ductal carcinoma in situ	DCIS 02	stroma
+GSE33692	GSM832969	GPL5175	ductal carcinoma in situ	DCIS 06	epithelium
+GSE33692	GSM832970	GPL5175	ductal carcinoma in situ	DCIS 08	epithelium
+GSE33692	GSM832971	GPL5175	ductal carcinoma in situ	DCIS 08	stroma
+GSE33692	GSM832972	GPL5175	invasive breast cancer	IDC 16	epithelium
+GSE33692	GSM832973	GPL5175	invasive breast cancer	IDC 16	stroma
+GSE33692	GSM832974	GPL5175	invasive breast cancer	IDC 17	epithelium
+GSE33692	GSM832975	GPL5175	invasive breast cancer	IDC 17	stroma
+GSE33692	GSM832976	GPL5175	ductal carcinoma in situ	DCIS 18	epithelium
+GSE33692	GSM832977	GPL5175	ductal carcinoma in situ	DCIS 18	stroma
+GSE33692	GSM832978	GPL5175	invasive breast cancer	IDC 19	epithelium
+GSE33692	GSM832979	GPL5175	invasive breast cancer	IDC 19	stroma
+GSE33692	GSM832980	GPL5175	invasive breast cancer	IDC 20	epithelium
+GSE33692	GSM832981	GPL5175	invasive breast cancer	IDC 20	stroma
+GSE33692	GSM832982	GPL5175	normal	NORMAL 21	epithelium
+GSE33692	GSM832983	GPL5175	normal	NORMAL 21	stroma
+GSE33692	GSM832984	GPL5175	normal	NORMAL 22	epithelium
+GSE33692	GSM832985	GPL5175	normal	NORMAL 22	stroma
+GSE33692	GSM832986	GPL5175	normal	NORMAL 23	epithelium
+GSE33692	GSM832987	GPL5175	normal	NORMAL 23	stroma

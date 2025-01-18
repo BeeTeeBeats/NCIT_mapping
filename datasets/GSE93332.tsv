@@ -1,0 +1,9 @@
+Dataset_ID	Sample_ID	Platform_ID	er_status	her2_status	tissue_preservation_method
+GSE93332	GSM2451621	GPL570	negative	negative	Fresh-Frozen
+GSE93332	GSM2451622	GPL570	negative	negative	Fresh-Frozen
+GSE93332	GSM2451623	GPL570	positive	negative	Fresh-Frozen
+GSE93332	GSM2451624	GPL570	positive	negative	Fresh-Frozen
+GSE93332	GSM2451625	GPL570	negative	positive	Fresh-Frozen
+GSE93332	GSM2451626	GPL570	negative	positive	Fresh-Frozen
+GSE93332	GSM2451627	GPL570	positive	positive	Fresh-Frozen
+GSE93332	GSM2451628	GPL570	positive	positive	Fresh-Frozen

@@ -1,0 +1,13 @@
+Dataset_ID	Sample_ID	Platform_ID	cell_type	tissue
+GSE20086	GSM501884	GPL570	carcinoma-associated fibroblast	breast carcinoma
+GSE20086	GSM501885	GPL570	carcinoma-associated fibroblast	breast carcinoma
+GSE20086	GSM501886	GPL570	carcinoma-associated fibroblast	breast carcinoma
+GSE20086	GSM501887	GPL570	carcinoma-associated fibroblast	breast carcinoma
+GSE20086	GSM501888	GPL570	carcinoma-associated fibroblast	breast carcinoma
+GSE20086	GSM501889	GPL570	carcinoma-associated fibroblast	breast carcinoma
+GSE20086	GSM501890	GPL570	normal fibroblast	normal breast
+GSE20086	GSM501891	GPL570	normal fibroblast	normal breast
+GSE20086	GSM501892	GPL570	normal fibroblast	normal breast
+GSE20086	GSM501893	GPL570	normal fibroblast	normal breast
+GSE20086	GSM501894	GPL570	normal fibroblast	normal breast
+GSE20086	GSM501895	GPL570	normal fibroblast	normal breast

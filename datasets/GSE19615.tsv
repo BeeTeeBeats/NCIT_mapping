@@ -1,0 +1,116 @@
+Dataset_ID	Sample_ID	Platform_ID	adjuvant_chemotherapy	age	chemo_class	distant_recur_yn	distant_recurrence_free_survival_mo	er	grade_modified_bloom_richardson	her_2	histology_type	hormonal_rx	lymph_nodes	patientid	pr	time_of_followup_mo	tumor_recurrence_36mo	tumor_size_cm
+GSE19615	GSM491175	GPL570	AC-taxol	53	Anthracycline-based	Y	24	neg	III	pos (3+)	Ductal	none	positive	292	neg	NA	yes	2.3
+GSE19615	GSM491176	GPL570	AC x 4	60	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	310	neg	38	no	0.9
+GSE19615	GSM491177	GPL570	AC x 4	65	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	316	neg	60	no	3.5
+GSE19615	GSM491178	GPL570	AC-taxol(x1)	48	Anthracycline-based	Y	9	neg	III	pos (3+)	Ductal	none	positive	325	neg	NA	yes	1.8
+GSE19615	GSM491179	GPL570	AC-taxol	58	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	positive	330	neg	62	no	2.1
+GSE19615	GSM491180	GPL570	AC-taxol	45	Anthracycline-based	Y	16	neg	III	pos (3+)	Ductal	none	positive	343	neg	NA	yes	2.5
+GSE19615	GSM491181	GPL570	AC x 4	49	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	positive	390	neg	64	no	1.2
+GSE19615	GSM491182	GPL570	AC x 4	56	Anthracycline-based	N	NA	neg	III	pos (3+)	Ductal	none	negative	397	neg	67	no	2.1
+GSE19615	GSM491183	GPL570	AC x 4	85	Anthracycline-based	Y	27	neg	II	pos (3+)	Ductal	none	positive	400	neg	NA	yes	2.5
+GSE19615	GSM491184	GPL570	AC x 4	66	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	451	neg	62	no	2.5
+GSE19615	GSM491185	GPL570	Unknown	58	Unknown	N	NA	neg	II	neg	Ductal	none	negative	488	neg	52	no	1.8
+GSE19615	GSM491186	GPL570	none	79	none	Y	1	neg	III	neg	Ductal	none	negative	498	neg	NA	yes	5
+GSE19615	GSM491187	GPL570	Epirubicin, Cytoxan, Xeloda	58	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	534	neg	53	no	2.1
+GSE19615	GSM491188	GPL570	Unknown	48	Unknown	N	NA	neg	III	neg	Ductal	none	negative	538	neg	54	no	1
+GSE19615	GSM491189	GPL570	AC x 4	50	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	554	neg	51	no	0.9
+GSE19615	GSM491190	GPL570	AC x 4	40	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	558	neg	48	no	2.2
+GSE19615	GSM491191	GPL570	AC x 4	58	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	582	neg	52	no	1
+GSE19615	GSM491192	GPL570	AC-taxol/Herceptin	63	Trastuzumab	N	NA	neg	III	pos (3+)	Ductal	none	positive	588	neg	50	no	3.5
+GSE19615	GSM491193	GPL570	AC-taxol	41	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	591	neg	50	no	2.7
+GSE19615	GSM491194	GPL570	none	74	none	N	NA	neg	II	neg	Ductal	none	negative	598	neg	40	no	2.5
+GSE19615	GSM491195	GPL570	AC x 4	48	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	609	neg	49	no	3
+GSE19615	GSM491196	GPL570	none	78	none	N	NA	neg	III	neg	Ductal	none	negative	613	neg	53	no	1.3
+GSE19615	GSM491197	GPL570	AC x 4	55	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	653	neg	50	no	1.4
+GSE19615	GSM491198	GPL570	AC x 4	43	Anthracycline-based	Y	35	neg	III	neg	Ductal	none	negative	664	neg	NA	yes	1.7
+GSE19615	GSM491199	GPL570	none	72	none	N	NA	neg	III	neg	Ductal	none	negative	665	neg	50	no	2.3
+GSE19615	GSM491200	GPL570	AC-taxol	49	Anthracycline-based	N	NA	neg	III	pos (3+)	Ductal	none	positive	670	neg	36	no	3.4
+GSE19615	GSM491201	GPL570	CAF	43	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	799	neg	36	no	2.8
+GSE19615	GSM491202	GPL570	AC-taxotere	56	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	828	neg	39	no	2.2
+GSE19615	GSM491203	GPL570	AC x 4	41	Anthracycline-based	N	NA	pos	III	pos (3+)	Ductal	Tam	positive	396	pos	65	no	1.1
+GSE19615	GSM491204	GPL570	AC x 4	62	Anthracycline-based	N	NA	pos	I	neg	Lobular	Tam	negative	92	pos	80	no	3.5
+GSE19615	GSM491205	GPL570	Unknown	43	Unknown	N	NA	pos	III	pos (3+)	Ductal	unknown	negative	129	pos	78	no	1
+GSE19615	GSM491206	GPL570	none	54	none	N	NA	pos	I	low pos (2+)	Ductal	Tam	negative	131	pos	78	no	1.7
+GSE19615	GSM491207	GPL570	AC x 4	55	Anthracycline-based	N	NA	pos-low	III	pos (3+)	Ductal	Tam	positive	96	pos-low	51	no	1.4
+GSE19615	GSM491208	GPL570	CMF	46	Other	Y	6	pos	II	neg	Mixed	Tam	positive	86	pos	NA	yes	2.6
+GSE19615	GSM491209	GPL570	AC x 4	46	Anthracycline-based	N	NA	pos	II	neg	Mixed	Tam	negative	73	pos	85	no	0.9
+GSE19615	GSM491210	GPL570	none	44	none	N	NA	pos	I	neg	Ductal	Tam	negative	212	pos	73	no	0.8
+GSE19615	GSM491211	GPL570	AC x 4	54	Anthracycline-based	N	NA	pos	II	pos (3+)	Ductal	Tam	negative	74	pos-low	82	no	2.2
+GSE19615	GSM491212	GPL570	AC x 4	49	Anthracycline-based	N	NA	neg	III	pos (3+)	Ductal	none	negative	196	neg	75	no	1.8
+GSE19615	GSM491213	GPL570	none	84	none	N	NA	pos	II	neg	Mixed	Tam	positive	123	pos	79	no	2.2
+GSE19615	GSM491214	GPL570	AC x 4	43	Anthracycline-based	N	NA	pos	III	pos (3+)	Ductal	Tam	negative	180	neg	52	no	4.2
+GSE19615	GSM491215	GPL570	AC x 4	54	Anthracycline-based	N	NA	neg	II	pos (3+)	Ductal	none	negative	249	neg	81	no	2.5
+GSE19615	GSM491216	GPL570	none	45	none	N	NA	pos	II	neg	Lobular	Tam	negative	207	pos	59	no	2.3
+GSE19615	GSM491217	GPL570	AC-taxotere	45	Anthracycline-based	N	NA	pos-low	II	pos (3+)	Ductal	Tam	positive	65	pos-low	83	no	1.7
+GSE19615	GSM491218	GPL570	AC x 4	35	Anthracycline-based	N	NA	pos	II	neg	Lobular	Tam	positive	157	neg	85	no	1.1
+GSE19615	GSM491219	GPL570	AC x 4	53	Anthracycline-based	Y	18	neg	III	neg	Ductal	none	negative	148	neg	NA	yes	3
+GSE19615	GSM491220	GPL570	AC x 4	60	Anthracycline-based	N	NA	pos	I	neg	Ductal	Tam	negative	228	pos-low	70	no	2.3
+GSE19615	GSM491221	GPL570	AC-taxol	32	Anthracycline-based	N	NA	pos	II	neg	Ductal	Tam	positive	162	pos-low	83	no	1.5
+GSE19615	GSM491222	GPL570	AC-taxol	40	Anthracycline-based	N	NA	pos	I	neg	Ductal	Tam	positive	175	neg	74	no	4
+GSE19615	GSM491223	GPL570	AC x 4	45	Anthracycline-based	N	NA	neg	III	pos (3+)	Ductal	none	negative	14	neg	87	no	1.5
+GSE19615	GSM491224	GPL570	AC x 4	46	Anthracycline-based	N	NA	pos	I	neg	Ductal	none	negative	246	pos	86	no	1.1
+GSE19615	GSM491225	GPL570	AC-taxol	41	Anthracycline-based	N	NA	pos	I	neg	Ductal	Tam	positive	60	pos	86	no	3
+GSE19615	GSM491226	GPL570	AC-taxol	46	Anthracycline-based	N	NA	pos	III	low pos (2+)	Lobular	Tam	positive	138	pos	80	no	2.3
+GSE19615	GSM491227	GPL570	AC x 4	36	Anthracycline-based	N	NA	pos	II	neg	Ductal	Tam	negative	204	pos	78	no	1
+GSE19615	GSM491228	GPL570	Unknown	68	Unknown	N	NA	neg	III	neg	Ductal	unknown	negative	239	neg	73	no	1.1
+GSE19615	GSM491229	GPL570	AC x 4	54	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	253	neg	56	no	1.1
+GSE19615	GSM491230	GPL570	none	81	none	N	NA	pos	I	neg	Lobular	Tam	positive	11	pos-low	70	no	2.5
+GSE19615	GSM491231	GPL570	AC-taxol	45	Anthracycline-based	N	NA	neg	III	low pos (2+)	Ductal	none	positive	21	neg	83	no	3
+GSE19615	GSM491232	GPL570	AC x 2, Taxol	53	Anthracycline-based	Y	14	neg	III	neg	Lobular	none	positive	214	neg	NA	yes	5.2
+GSE19615	GSM491233	GPL570	AC x 4	48	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	12	neg	75	no	2.5
+GSE19615	GSM491234	GPL570	AC x 4	53	Anthracycline-based	N	NA	pos	II	neg	Lobular	Tam	negative	165	neg	77	no	2.5
+GSE19615	GSM491235	GPL570	AC-taxol.taxotere	57	Anthracycline-based	N	NA	pos	III	low pos (2+)	Ductal	Tam	positive	126	pos	73	no	1.7
+GSE19615	GSM491236	GPL570	AC x 4	57	Anthracycline-based	N	NA	pos	II	neg	Ductal	Tam	negative	6	pos	59	no	2.1
+GSE19615	GSM491237	GPL570	AC-taxol	46	Anthracycline-based	N	NA	pos	III	neg	Ductal	Tam	positive	58	pos-low	85	no	1.5
+GSE19615	GSM491238	GPL570	AC x 4	50	Anthracycline-based	N	NA	neg	III	low pos (2+)	Ductal	none	negative	164	neg	77	no	1.9
+GSE19615	GSM491239	GPL570	AC-taxol	58	Anthracycline-based	N	NA	pos	II	neg	Mixed	Tam	positive	119	pos	81	no	3.5
+GSE19615	GSM491240	GPL570	none	62	none	N	NA	pos	I	neg	Ductal	Tam	negative	154	pos	81	no	1.5
+GSE19615	GSM491241	GPL570	AC x 4	44	Anthracycline-based	N	NA	neg	III	neg	Ductal	none	negative	182	neg	57	no	2
+GSE19615	GSM491242	GPL570	AC-taxol	37	Anthracycline-based	N	NA	pos	II	pos (3+)	Ductal	Tam	positive	35	pos	48	no	1.3
+GSE19615	GSM491243	GPL570	AC-taxol	55	Anthracycline-based	N	NA	neg	III	pos (3+)	Ductal	none	positive	151	neg	58	no	2.5
+GSE19615	GSM491244	GPL570	none	64	none	Y	21	neg	III	neg	Ductal	none	negative	203	neg	NA	yes	1.7
+GSE19615	GSM491245	GPL570	AC x 4	53	Anthracycline-based	N	NA	neg	III	pos (3+)	Ductal	none	negative	187	neg	77	no	3
+GSE19615	GSM491246	GPL570	AC x 4	66	Anthracycline-based	N	NA	pos-low	I	neg	Ductal	Tam	positive	237	pos	82	no	1.1
+GSE19615	GSM491247	GPL570	none	63	none	N	NA	pos	III	pos (3+)	Ductal	none	negative	238	pos	71	no	1.2
+GSE19615	GSM491248	GPL570	none	66	none	N	NA	pos	I	neg	Ductal	Tam	positive	252	pos	55	no	1.2
+GSE19615	GSM491249	GPL570	none	38	none	Y	2	pos-low	III	neg	Mixed	none	positive	206	pos-low	NA	yes	4.2
+GSE19615	GSM491250	GPL570	AC-taxol	46	Anthracycline-based	N	NA	pos	III	neg	Ductal	Tam	positive	230	pos	76	no	3
+GSE19615	GSM491251	GPL570	AC-taxol	60	Anthracycline-based	N	NA	pos	III	neg	Ductal	Tam	positive	142	pos	88	no	2.2
+GSE19615	GSM491252	GPL570	AC-taxol	50	Anthracycline-based	N	NA	pos	I	neg	Ductal	Tam	positive	168	pos	47	no	1.3
+GSE19615	GSM491253	GPL570	AC-taxol	37	Anthracycline-based	N	NA	pos	I	neg	Ductal	Tam	positive	222	pos	83	no	1.2
+GSE19615	GSM491254	GPL570	Unknown	53	Unknown	N	NA	pos	III	pos (3+)	Ductal	Tam	negative	219	pos-low	54	no	2
+GSE19615	GSM491255	GPL570	none	57	none	N	NA	pos	I	neg	Mixed	Tam	negative	91	neg	79	no	1.1
+GSE19615	GSM491256	GPL570	AC-taxol	57	Anthracycline-based	Y	15	neg	II	pos (3+)	Ductal	none	positive	156	neg	NA	yes	2.9
+GSE19615	GSM491257	GPL570	none	84	none	Y	18	pos	III	neg	Ductal	Tam	positive	227	pos	NA	yes	2.5
+GSE19615	GSM491258	GPL570	CMF	46	Other	N	NA	pos	II	neg	Lobular	Tam	negative	177	pos	76	no	1.2
+GSE19615	GSM491259	GPL570	AC-taxol	45	Anthracycline-based	N	NA	pos	I	neg	Lobular	Tam	positive	231	pos	81	no	1.5
+GSE19615	GSM491260	GPL570	none	62	none	N	NA	pos	I	neg	Lobular	Tam	negative	150	pos	83	no	5
+GSE19615	GSM491261	GPL570	AC-taxol	58	Anthracycline-based	N	NA	pos	I	neg	Mixed	Tam	positive	221	pos	54	no	1.5
+GSE19615	GSM491262	GPL570	none	50	none	N	NA	pos	I	neg	Ductal	Tam	negative	174	pos-low	79	no	1.4
+GSE19615	GSM491263	GPL570	none	74	none	N	NA	pos	I	neg	Ductal	Tam	negative	178	pos	74	no	1.1
+GSE19615	GSM491264	GPL570	none	57	none	N	NA	pos	III	neg	Ductal	Tam	positive	192	pos	74	no	1.1
+GSE19615	GSM491265	GPL570	none	58	none	N	NA	pos	I	neg	Ductal	Tam	negative	87	neg	81	no	0.8
+GSE19615	GSM491266	GPL570	none	59	none	N	NA	pos	I	neg	Lobular	Tam	negative	7	pos	81	no	1
+GSE19615	GSM491267	GPL570	AC-taxol	46	Anthracycline-based	N	NA	pos	II	neg	Ductal	Tam	negative	229	pos	76	no	2.1
+GSE19615	GSM491268	GPL570	none	54	none	N	NA	pos	II	low pos (2+)	Ductal	Tam	negative	9	pos-low	65	no	1.5
+GSE19615	GSM491269	GPL570	none	64	none	N	NA	pos	I	neg	Mixed	Tam	negative	224	pos	83	no	1.3
+GSE19615	GSM491270	GPL570	AC x 4	64	Anthracycline-based	N	NA	pos	III	pos (3+)	Ductal	Arimidex	negative	666	pos	48	no	2.1
+GSE19615	GSM491271	GPL570	AC-taxol	68	Anthracycline-based	N	NA	neg	III	pos (3+)	Mixed	none	positive	643	neg	51	no	5.5
+GSE19615	GSM491272	GPL570	CMF	49	Other	N	NA	pos	I	neg	Mixed	Tam	pos.micromet	552	pos	56	no	2
+GSE19615	GSM491273	GPL570	CAF	37	Anthracycline-based	N	NA	pos	II	neg	Ductal	Tam	positive	489	pos	59	no	6.5
+GSE19615	GSM491274	GPL570	CMF	63	Other	N	NA	pos	III	neg	Ductal	Tam	positive	362	pos	69	no	4.5
+GSE19615	GSM491275	GPL570	none	71	none	N	NA	pos	III	pos (3+)	Lobular	Tam	positive	537	pos	71	no	2.3
+GSE19615	GSM491276	GPL570	AC-taxol	45	Anthracycline-based	N	NA	pos	II	neg	Lobular	Tam	positive	651	pos	53	no	4
+GSE19615	GSM491277	GPL570	none	78	none	N	NA	pos	III	neg	Ductal	Arimidex	positive	365	pos	53	no	2.3
+GSE19615	GSM491278	GPL570	CAF	49	Anthracycline-based	N	NA	pos	III	neg	Ductal	Tam	pos.micromet	612	pos	53	no	5.6
+GSE19615	GSM491279	GPL570	AC-taxol/Herceptin	42	Trastuzumab	N	NA	pos	III	pos (3+)	Ductal	Tam	positive	656	neg	54	no	4
+GSE19615	GSM491280	GPL570	none	54	none	N	NA	pos	II	neg	Ductal	Tam	negative	254	pos	71	no	2.5
+GSE19615	GSM491281	GPL570	none	82	none	N	NA	pos	II	neg	Ductal	Tam	positive	260	pos	48	no	2.5
+GSE19615	GSM491282	GPL570	AC-taxotere	48	Anthracycline-based	N	NA	pos	III	neg	Mixed	unknown	positive	262	pos	71	no	5
+GSE19615	GSM491283	GPL570	AC x 4	49	Anthracycline-based	N	NA	pos	III	pos (3+)	Ductal	Tam	negative	274	pos	71	no	3
+GSE19615	GSM491284	GPL570	AC-taxol	45	Anthracycline-based	N	NA	neg	II	neg	Ductal	none	positive	281	pos	74	no	1.2
+GSE19615	GSM491285	GPL570	Unknown	47	Unknown	N	NA	pos	III	pos (3+)	Ductal	unknown	positive	283	pos	36	no	4
+GSE19615	GSM491286	GPL570	AC x 4	56	Anthracycline-based	Y	18	pos	II	neg	Lobular	Tam	negative	300	pos	NA	yes	1.6
+GSE19615	GSM491287	GPL570	AC x 4	45	Anthracycline-based	N	NA	pos	III	pos (3+)	Ductal	Tam	negative	308	pos	73	no	1.9
+GSE19615	GSM491288	GPL570	AC x 4	41	Anthracycline-based	N	NA	pos	III	neg	Ductal	Tam	positive	363	pos-low	67	yes	4
+GSE19615	GSM491289	GPL570	AC-taxol/Herceptin	32	Trastuzumab	N	NA	pos	II	pos (3+)	Mixed	Tam	positive	621	pos	55	no	4.5

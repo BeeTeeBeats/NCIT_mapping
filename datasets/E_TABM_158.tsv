@@ -1,0 +1,131 @@
+Dataset_ID	Sample_ID	Platform_ID	distal_recurrence_time	recurrence_time	dead_of_disease	followup_time	family_history	node_positive	tumor_staging	hormonal_therapy	alive_at_endpoint	tumor_grading	erb_b2_positive_ihc	p53_positive_ihc	chemotherapy_treatment	sex	ethnicity	tumor_size_mm	radiation_treatment	recurrence	progesterone_receptor_status	distal_recurrence	age_at_diagnosis	estrogen_receptor_status
+E_TABM_158	s0100	GPL4685	8.53	8.53	no	8.53	none	no	1	no	no	3	no	no	no	female	Caucasian	1	yes	no	positive	no	42	positive
+E_TABM_158	s0138	GPL4685	8.18	8.18	no	8.18	none	yes	2	no	no	3	no	no	yes	female	Caucasian	1.4	yes	no	negative	no	74	negative
+E_TABM_158	b0354	GPL4685	1.57	1.57	no	3.53	none	yes	3	no	yes	2	NA	NA	yes	female	Caucasian	5	yes	yes	negative	no	51	positive
+E_TABM_158	b0428	GPL4685	8.51	8.51	no	8.51	NA	yes	2	yes	no	3	no	no	yes	female	African American	3.7	no	no	positive	no	38	positive
+E_TABM_158	b0447	GPL4685	6.02	6.02	no	7.25	none	yes	2	no	yes	2	no	no	yes	female	Caucasian	2.3	no	no	negative	no	62	negative
+E_TABM_158	s0205	GPL4685	9.6	9.6	no	9.6	none	no	1	no	no	3	no	no	no	female	African American	1.4	yes	no	positive	no	47	positive
+E_TABM_158	b0243	GPL4685	4.04	4.04	yes	5.76	none	no	1	no	yes	2	NA	NA	yes	female	Caucasian	2	yes	yes	positive	yes	40	positive
+E_TABM_158	s0106	GPL4685	6.36	6.36	no	6.54	none	yes	4	yes	yes	3	no	no	no	female	Caucasian	7	yes	yes	positive	no	57	positive
+E_TABM_158	s0195	GPL4685	6.52	6.52	no	9.82	NA	yes	2	no	no	3	NA	NA	yes	female	Caucasian	2	no	yes	negative	yes	31	negative
+E_TABM_158	s0141	GPL4685	2.13	2.13	no	2.47	yes	no	2	yes	no	2	NA	yes	yes	female	Caucasian	2.5	no	yes	negative	no	43	positive
+E_TABM_158	s0047	GPL4685	10.09	10.09	no	10.09	yes	no	1	yes	no	3	no	no	no	female	African American	0.6	no	no	positive	no	82	positive
+E_TABM_158	b0554	GPL4685	4.39	4.39	no	4.39	none	yes	2	no	no	2	NA	NA	yes	female	Caucasian	3.5	no	no	positive	no	43	negative
+E_TABM_158	b0370	GPL4685	1.05	1.05	no	1.05	none	no	2	no	yes	3	no	no	yes	female	African American	4	no	no	positive	no	43	positive
+E_TABM_158	s0006	GPL4685	4.84	4.84	no	6.33	yes	no	2	yes	no	3	no	no	yes	female	Other	4	no	no	negative	no	34	positive
+E_TABM_158	b0629	GPL4685	5.98	5.98	no	5.98	none	yes	2	yes	yes	3	NA	NA	no	female	Caucasian	2.4	no	no	positive	no	88	positive
+E_TABM_158	b0502	GPL4685	9.1	9.1	no	9.1	none	no	1	yes	no	2	yes	no	no	female	Caucasian	1.5	yes	no	negative	no	55	negative
+E_TABM_158	s0168	GPL4685	11.24	11.24	no	11.24	none	no	2	yes	no	3	no	no	no	female	Caucasian	3	no	no	positive	no	47	positive
+E_TABM_158	b0519	GPL4685	12.78	12.78	no	12.78	none	no	1	yes	no	2	NA	NA	no	female	Caucasian	1.5	no	no	positive	no	56	positive
+E_TABM_158	b0318	GPL4685	9.6	9.6	no	9.6	none	yes	4	yes	no	2	no	no	no	female	Other	3.5	yes	no	positive	no	40	negative
+E_TABM_158	b0341	GPL4685	2.68	2.68	yes	3.42	none	no	2	no	yes	2	no	no	yes	female	Caucasian	2.5	yes	yes	positive	yes	37	positive
+E_TABM_158	b0494	GPL4685	9.98	9.98	no	9.98	none	no	2	no	no	NA	no	yes	yes	female	Caucasian	3.8	yes	no	negative	no	44	negative
+E_TABM_158	s0050	GPL4685	6.73	6.73	no	6.73	yes	yes	3	yes	no	3	no	no	no	female	Caucasian	4.5	no	no	positive	no	86	positive
+E_TABM_158	s0067	GPL4685	11.35	11.35	no	11.35	none	yes	2	no	no	3	no	no	yes	female	Caucasian	2.7	yes	no	negative	no	40	negative
+E_TABM_158	s0025	GPL4685	0	0	yes	0.6	NA	no	1	NA	yes	3	NA	NA	NA	female	NA	1.2	NA	yes	positive	yes	NA	positive
+E_TABM_158	s0104	GPL4685	10.72	10.72	no	10.72	NA	yes	3	yes	no	3	no	no	no	female	Caucasian	5.5	yes	no	positive	no	72	positive
+E_TABM_158	s0170	GPL4685	10.26	10.26	no	10.26	yes	no	2	yes	no	3	no	no	no	female	Caucasian	2.4	yes	no	positive	no	51	positive
+E_TABM_158	b0241	GPL4685	10.36	10.36	no	10.36	none	no	1	yes	no	2	no	no	no	female	Caucasian	1.5	no	no	positive	no	68	positive
+E_TABM_158	s0181	GPL4685	1.36	1.36	no	1.36	NA	yes	2	no	no	3	yes	no	no	female	Caucasian	3.5	no	no	positive	no	48	positive
+E_TABM_158	b0664	GPL4685	10.98	10.98	no	10.98	none	no	1	no	no	2	NA	NA	yes	female	NA	1.1	no	no	positive	no	47	positive
+E_TABM_158	b0427	GPL4685	6.84	6.84	no	6.84	NA	yes	2	yes	no	2	no	yes	yes	female	African American	2.2	no	no	positive	no	41	positive
+E_TABM_158	b0387	GPL4685	8.38	8.38	no	8.38	none	no	2	no	no	3	no	yes	yes	female	Caucasian	2.1	yes	no	positive	no	47	negative
+E_TABM_158	b0334	GPL4685	2.74	2.74	no	2.74	none	no	2	yes	no	3	no	no	no	female	Caucasian	5.5	no	no	positive	no	54	negative
+E_TABM_158	b0372	GPL4685	2.46	2.46	no	2.46	yes	yes	2	no	no	1	yes	yes	yes	female	Other	4.5	yes	no	negative	no	31	negative
+E_TABM_158	b0542	GPL4685	0	0	yes	3.27	yes	yes	3	yes	yes	3	NA	NA	no	female	Other	7.5	no	yes	negative	yes	33	positive
+E_TABM_158	b0772	GPL4685	2.27	2.27	yes	3.85	yes	yes	3	yes	yes	3	NA	NA	yes	female	Caucasian	6.2	no	yes	negative	yes	52	positive
+E_TABM_158	s0013	GPL4685	9.71	9.71	no	9.71	none	yes	2	no	no	2	no	yes	yes	female	Caucasian	3	yes	no	negative	no	40	negative
+E_TABM_158	s0077	GPL4685	0.42	0.42	yes	2.36	none	no	1	no	yes	3	no	no	no	female	Caucasian	1.4	no	yes	positive	yes	51	positive
+E_TABM_158	b0296	GPL4685	11.1	11.1	no	11.1	none	no	1	yes	no	1	no	no	no	female	Caucasian	2	yes	no	positive	no	82	positive
+E_TABM_158	b0305	GPL4685	8.67	8.67	no	11.56	yes	yes	2	no	yes	2	no	no	yes	female	Other	2	no	no	negative	no	72	negative
+E_TABM_158	b0626	GPL4685	9.47	9.47	no	9.47	NA	no	2	no	no	1	NA	NA	no	female	Caucasian	5	no	no	negative	no	86	positive
+E_TABM_158	s0101	GPL4685	8.6	8.6	no	8.6	none	yes	2	no	no	3	no	yes	yes	female	Caucasian	3.5	yes	no	negative	no	50	negative
+E_TABM_158	s0200	GPL4685	4.97	4.97	no	4.97	NA	yes	2	yes	no	3	no	no	no	female	African American	1.5	no	no	negative	no	80	positive
+E_TABM_158	s0033	GPL4685	0.82	0.82	yes	7.09	NA	no	1	yes	yes	3	NA	NA	no	female	Caucasian	0.3	no	yes	positive	no	71	positive
+E_TABM_158	s0088	GPL4685	14.15	14.15	no	14.15	yes	yes	4	yes	no	2	no	no	yes	female	Caucasian	1.8	no	no	negative	no	36	positive
+E_TABM_158	s0042	GPL4685	11.28	11.28	no	11.28	none	yes	2	NA	yes	3	NA	NA	yes	female	Caucasian	1.8	yes	no	negative	no	47	negative
+E_TABM_158	s0001	GPL4685	2.47	2.47	no	8.82	yes	no	2	yes	no	1	NA	NA	no	female	Caucasian	2.7	yes	yes	positive	yes	48	positive
+E_TABM_158	b0251	GPL4685	5.7	5.7	no	5.7	NA	no	2	yes	no	2	no	no	no	female	Caucasian	3	no	no	negative	no	78	positive
+E_TABM_158	b0327	GPL4685	10.98	10.98	no	10.98	NA	no	1	no	no	1	NA	NA	yes	female	Caucasian	2	yes	no	negative	no	57	negative
+E_TABM_158	s0201	GPL4685	10.31	10.31	no	10.31	none	no	2	no	no	3	no	yes	no	female	Caucasian	2.3	yes	no	negative	no	59	negative
+E_TABM_158	b0317	GPL4685	2.9	2.9	no	2.9	none	no	1	yes	no	3	no	no	no	female	Caucasian	1.7	no	no	positive	no	73	positive
+E_TABM_158	s1511	GPL4685	3.01	3.01	yes	3.01	none	yes	2	no	yes	2	NA	NA	no	female	African American	3.5	no	yes	positive	no	48	positive
+E_TABM_158	b0556	GPL4685	0	0	yes	4.68	none	yes	2	yes	yes	2	NA	NA	yes	female	Caucasian	2	yes	yes	negative	yes	37	positive
+E_TABM_158	b0339	GPL4685	1.54	1.54	no	1.34	none	yes	2	yes	no	3	no	no	no	female	African American	3	no	no	positive	no	80	positive
+E_TABM_158	b0679	GPL4685	10.34	10.34	no	10.34	none	yes	2	yes	no	1	NA	NA	yes	female	African American	2.3	no	no	positive	no	53	positive
+E_TABM_158	b0421	GPL4685	10.3	10.3	no	10.3	yes	yes	3	yes	no	2	no	no	yes	female	Caucasian	5	yes	no	positive	no	75	positive
+E_TABM_158	b0394	GPL4685	5.64	5.64	no	5.64	none	yes	2	yes	no	1	no	no	yes	female	Caucasian	1.5	no	no	negative	no	39	negative
+E_TABM_158	s0136	GPL4685	10.2	10.2	no	10.2	yes	no	1	no	no	2	no	no	no	female	Other	1.9	yes	no	negative	no	36	negative
+E_TABM_158	b0504	GPL4685	11.32	11.32	no	11.32	none	yes	2	no	no	3	NA	NA	yes	female	Other	3	yes	no	negative	no	49	negative
+E_TABM_158	b0672	GPL4685	0.13	0.13	no	0.13	none	yes	2	no	no	3	NA	NA	no	female	Caucasian	3	no	no	negative	no	60	negative
+E_TABM_158	b0404	GPL4685	9.14	9.14	no	9.14	none	no	1	yes	no	3	no	no	no	female	Caucasian	1	yes	no	negative	no	76	positive
+E_TABM_158	s1551	GPL4685	NA	NA	NA	NA	none	yes	2	no	NA	3	NA	NA	yes	female	Caucasian	5	yes	NA	positive	NA	53	positive
+E_TABM_158	b0359	GPL4685	3.62	3.62	yes	5.67	none	no	1	no	yes	2	no	yes	yes	female	Caucasian	1.5	yes	yes	NA	yes	50	negative
+E_TABM_158	s1616	GPL4685	5.79	5.79	no	5.79	none	yes	3	no	yes	NA	NA	NA	no	female	Caucasian	4.5	yes	no	negative	no	72	negative
+E_TABM_158	s0019	GPL4685	11.96	11.96	no	11.96	yes	yes	2	yes	no	3	no	no	no	female	Caucasian	1.8	yes	no	positive	no	35	positive
+E_TABM_158	b0326	GPL4685	6.12	6.12	no	6.12	yes	yes	2	no	no	3	no	no	yes	female	Caucasian	2.5	no	no	negative	no	46	positive
+E_TABM_158	s0026	GPL4685	0.67	0.67	yes	1.6	none	yes	2	no	yes	3	NA	NA	no	female	Caucasian	1.8	yes	yes	positive	yes	83	positive
+E_TABM_158	b0521	GPL4685	0.34	0.34	yes	2.93	none	yes	2	yes	yes	3	no	no	no	female	Caucasian	2.4	yes	yes	positive	yes	56	positive
+E_TABM_158	s0146	GPL4685	8.08	8.08	no	8.08	NA	yes	2	yes	no	3	no	no	no	female	Other	3.6	yes	no	positive	no	67	positive
+E_TABM_158	b0338	GPL4685	6.76	6.76	no	6.76	NA	no	1	yes	no	2	no	no	no	female	Caucasian	1.5	yes	no	negative	no	55	negative
+E_TABM_158	s0154	GPL4685	12.87	12.87	no	12.87	none	yes	2	yes	no	2	no	no	yes	female	Caucasian	1.4	yes	no	positive	no	63	positive
+E_TABM_158	b0433	GPL4685	3.07	3.07	no	8.33	yes	no	2	yes	no	3	no	yes	yes	female	Caucasian	3.7	no	yes	negative	no	60	negative
+E_TABM_158	s0086	GPL4685	4.47	4.47	no	4.47	yes	no	2	no	no	3	no	no	yes	female	African American	2.1	no	no	positive	no	44	negative
+E_TABM_158	s0004	GPL4685	1.32	1.32	yes	2.24	yes	yes	2	yes	yes	3	no	yes	yes	female	African American	2.4	yes	yes	negative	yes	54	negative
+E_TABM_158	b0668	GPL4685	14.2	14.2	no	14.2	none	no	1	no	no	NA	NA	NA	yes	female	Caucasian	1.5	no	no	positive	no	42	positive
+E_TABM_158	b0335	GPL4685	4.04	4.04	no	4.04	none	no	1	yes	yes	2	no	no	no	female	African American	1.1	yes	no	positive	no	40	positive
+E_TABM_158	s0035	GPL4685	2.48	2.48	yes	2.48	none	no	2	yes	yes	3	no	no	no	female	Caucasian	2.3	yes	yes	positive	no	70	positive
+E_TABM_158	b0383	GPL4685	1.53	1.53	yes	5.71	yes	yes	2	no	yes	3	no	no	yes	female	Caucasian	1.8	no	yes	positive	yes	36	negative
+E_TABM_158	b0340	GPL4685	1.84	1.84	no	1.84	none	yes	3	yes	yes	3	no	no	yes	female	Caucasian	NA	yes	no	positive	no	39	positive
+E_TABM_158	b0694	GPL4685	0.41	0.41	no	0.41	NA	no	2	NA	no	2	NA	NA	NA	female	Caucasian	4.5	NA	no	positive	no	50	positive
+E_TABM_158	b0382	GPL4685	0.86	0.86	yes	0.86	yes	no	1	no	yes	1	no	yes	no	female	Other	1.5	no	yes	negative	no	45	negative
+E_TABM_158	b0551	GPL4685	7.66	7.66	no	7.66	none	yes	3	no	yes	NA	yes	yes	yes	female	Caucasian	5	no	no	negative	no	37	negative
+E_TABM_158	s0116	GPL4685	3.06	3.06	no	3.06	none	no	1	yes	no	3	yes	no	no	female	Caucasian	1.3	yes	no	positive	no	80	positive
+E_TABM_158	b0566	GPL4685	2.11	2.11	yes	2.99	yes	yes	3	no	yes	3	no	no	no	female	Caucasian	4.5	no	yes	positive	no	55	positive
+E_TABM_158	s0046	GPL4685	6.02	6.02	no	6.02	none	yes	2	yes	no	2	yes	no	yes	female	Caucasian	3	yes	no	positive	no	44	positive
+E_TABM_158	s0175	GPL4685	2.15	2.15	yes	2.52	yes	yes	2	yes	yes	2	NA	no	no	female	Caucasian	5	yes	yes	negative	yes	82	positive
+E_TABM_158	b0165	GPL4685	8.96	8.96	no	8.96	none	no	1	no	no	1	yes	yes	yes	female	African American	1.5	no	no	negative	no	43	negative
+E_TABM_158	s0190	GPL4685	5.28	5.28	no	5.28	none	no	1	yes	no	3	no	yes	no	female	Caucasian	1.6	yes	no	positive	no	61	positive
+E_TABM_158	s0204	GPL4685	0.67	0.67	yes	0.67	yes	yes	2	no	yes	3	no	no	yes	female	Caucasian	1.7	yes	yes	positive	yes	57	positive
+E_TABM_158	b0414	GPL4685	11.78	11.78	no	11.78	none	no	1	no	no	1	yes	no	no	female	Caucasian	1	yes	no	positive	no	43	positive
+E_TABM_158	s0107	GPL4685	9.25	9.25	no	9.25	none	no	1	yes	no	1	no	no	no	female	Caucasian	1.6	no	no	negative	no	66	positive
+E_TABM_158	s0226	GPL4685	0.35	0.35	no	4.13	none	yes	2	yes	yes	3	yes	yes	yes	female	Caucasian	3	yes	yes	positive	no	31	positive
+E_TABM_158	s0071	GPL4685	0.31	0.31	yes	4	yes	yes	2	no	yes	3	no	yes	yes	female	African American	1.6	yes	yes	negative	yes	39	negative
+E_TABM_158	b0374	GPL4685	8.01	8.01	no	8.01	NA	yes	2	yes	no	1	no	no	no	female	Caucasian	3	no	no	positive	no	88	positive
+E_TABM_158	b0499	GPL4685	1.15	1.15	yes	2.24	NA	yes	2	yes	yes	3	no	yes	no	female	NA	2	yes	yes	positive	yes	71	positive
+E_TABM_158	b0515	GPL4685	4.33	4.33	no	4.33	none	no	2	yes	no	2	yes	yes	no	female	Caucasian	2.2	no	yes	negative	yes	56	negative
+E_TABM_158	b0627	GPL4685	10.45	10.45	no	10.45	yes	yes	NA	yes	no	2	NA	NA	no	female	Caucasian	3	no	no	positive	no	66	negative
+E_TABM_158	s0132	GPL4685	6.79	6.79	no	9.21	yes	no	1	yes	no	2	NA	NA	no	female	Caucasian	2	yes	yes	positive	yes	83	positive
+E_TABM_158	s0176	GPL4685	9.94	9.94	no	9.94	yes	yes	3	yes	no	1	no	no	yes	female	Caucasian	6	yes	no	negative	no	50	negative
+E_TABM_158	s0210	GPL4685	7.86	7.86	no	7.86	none	no	2	no	no	3	no	yes	no	female	Caucasian	3.2	yes	no	negative	no	51	negative
+E_TABM_158	b0299	GPL4685	4.39	4.39	no	4.39	NA	yes	2	yes	no	2	NA	NA	yes	female	Caucasian	4.2	no	no	NA	no	77	positive
+E_TABM_158	s0080	GPL4685	5.63	5.63	no	5.63	none	yes	2	yes	no	3	no	no	yes	female	African American	1.5	yes	no	positive	no	43	positive
+E_TABM_158	s0040	GPL4685	2.88	2.88	yes	3.35	yes	yes	4	yes	yes	3	no	no	yes	female	African American	2.2	no	yes	positive	yes	53	positive
+E_TABM_158	s0103	GPL4685	1.13	1.13	no	1.13	none	yes	2	yes	no	3	no	no	yes	female	Caucasian	1.5	yes	no	positive	no	59	positive
+E_TABM_158	s0059	GPL4685	0.67	0.67	no	0.67	none	yes	2	no	no	2	yes	no	yes	female	Caucasian	3.5	yes	no	positive	no	35	positive
+E_TABM_158	s0084	GPL4685	7.47	7.47	no	7.47	yes	yes	2	no	no	3	no	no	yes	female	Caucasian	1.8	no	no	negative	no	60	negative
+E_TABM_158	b0346	GPL4685	0.25	0.25	no	1.03	yes	no	2	yes	yes	3	no	yes	yes	female	Caucasian	3	no	yes	negative	yes	47	negative
+E_TABM_158	s0109	GPL4685	5.61	5.61	no	5.61	yes	yes	2	yes	no	3	no	no	yes	female	Caucasian	2.5	yes	no	negative	no	46	positive
+E_TABM_158	b0574	GPL4685	6.94	6.94	no	6.94	yes	no	1	yes	no	2	NA	NA	no	female	NA	1	no	no	negative	no	69	negative
+E_TABM_158	b0357	GPL4685	1.42	1.42	yes	1.97	yes	no	1	yes	yes	2	NA	NA	yes	female	Caucasian	1.6	yes	yes	positive	no	45	positive
+E_TABM_158	s0183	GPL4685	2.05	2.05	no	2.05	none	no	2	no	yes	NA	NA	NA	yes	female	Caucasian	2.3	yes	no	negative	no	63	negative
+E_TABM_158	b0420	GPL4685	7.9	7.9	no	7.9	yes	no	1	yes	no	3	no	yes	no	female	Caucasian	1.8	yes	no	positive	no	37	positive
+E_TABM_158	s0018	GPL4685	4.71	4.71	no	4.71	yes	yes	2	yes	no	2	no	no	yes	female	African American	1.6	yes	no	positive	no	51	negative
+E_TABM_158	b0344	GPL4685	1.51	1.51	no	1.51	yes	yes	2	yes	yes	2	NA	NA	no	female	Caucasian	1.9	no	no	negative	no	51	negative
+E_TABM_158	s0055	GPL4685	0	0	yes	5.59	none	yes	NA	yes	yes	3	NA	NA	no	female	African American	NA	yes	yes	negative	yes	43	negative
+E_TABM_158	b0565	GPL4685	1.05	1.05	yes	1.05	yes	yes	NA	yes	yes	3	NA	NA	no	female	Caucasian	3	no	no	positive	no	86	positive
+E_TABM_158	b0667	GPL4685	13.75	13.75	no	13.75	yes	no	2	no	no	3	NA	NA	yes	female	Caucasian	2.5	yes	no	positive	no	44	positive
+E_TABM_158	b0512	GPL4685	7.56	7.56	no	7.56	yes	yes	3	no	no	3	no	no	yes	female	Caucasian	3	yes	no	positive	no	47	positive
+E_TABM_158	s0229	GPL4685	5.57	5.57	no	5.57	none	yes	4	no	yes	2	no	yes	yes	female	Caucasian	4	no	no	negative	no	53	negative
+E_TABM_158	s0060	GPL4685	1.86	1.86	yes	2.98	none	yes	2	yes	yes	3	no	yes	yes	female	Caucasian	2.6	yes	yes	negative	yes	62	positive
+E_TABM_158	b0671	GPL4685	0.43	0.43	no	0.43	yes	no	2	no	no	2	NA	NA	yes	female	African American	2.3	no	no	positive	no	57	positive
+E_TABM_158	s0177	GPL4685	4.16	4.16	no	4.16	yes	yes	2	yes	no	2	no	no	yes	female	Caucasian	2.1	yes	no	positive	no	71	positive
+E_TABM_158	b0252	GPL4685	9.8	9.8	no	9.8	none	yes	2	yes	no	2	no	no	no	female	Caucasian	2.5	no	no	positive	no	83	positive
+E_TABM_158	s0350	GPL4685	3.51	3.51	yes	4.44	none	yes	3	no	yes	3	NA	NA	yes	female	African American	7	yes	yes	positive	yes	35	positive
+E_TABM_158	b0434	GPL4685	8.91	8.91	no	8.91	none	no	1	yes	no	2	no	no	no	female	Caucasian	1.5	no	no	negative	no	59	positive
+E_TABM_158	b0337	GPL4685	11.35	11.35	no	11.35	yes	no	1	yes	no	1	no	no	no	female	Caucasian	1.2	no	no	positive	no	70	positive
+E_TABM_158	b0244	GPL4685	9.01	9.01	no	9.01	none	no	2	no	no	2	NA	NA	yes	female	Other	3.4	no	no	negative	no	49	negative
+E_TABM_158	s0162	GPL4685	2.71	2.71	yes	3.78	none	no	1	yes	yes	2	NA	no	no	female	African American	2	no	yes	positive	yes	48	positive
+E_TABM_158	s0037	GPL4685	0	0	yes	2.43	NA	no	2	yes	yes	2	no	no	yes	female	Caucasian	2	no	yes	positive	yes	49	positive
+E_TABM_158	s0087	GPL4685	3.32	3.32	no	11.35	yes	no	2	no	no	2	no	no	yes	female	Other	2.2	yes	yes	negative	no	45	negative
+E_TABM_158	b0336	GPL4685	2.1	2.1	no	2.1	yes	yes	3	yes	no	2	no	NA	yes	female	Caucasian	4	no	no	positive	no	73	positive

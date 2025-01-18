@@ -1,0 +1,266 @@
+Dataset_ID	Sample_ID	Platform_ID	age_years	ajcc_stage_7th_edition_2010	body_mass_index	er	gender	her2	histology_group	histology	menopausal_status	metastases	positive_nodes	pr	race	triple_negative_status	tumor_grade	tumor_size
+GSE76275	GSM1974566	GPL570	NA	T2N1M0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974567	GPL570	41	T1N0M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974568	GPL570	55	T2N0M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974569	GPL570	55	T1cN0M0	31	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974570	GPL570	65	T2N2MX	38	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	4-9	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974571	GPL570	40	T1NXMX	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974572	GPL570	66	T1cNXMX	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974573	GPL570	57	T1N0MX	38	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	0	Negative	Caucasian	TN	NA	<=2cm
+GSE76275	GSM1974574	GPL570	NA	T2N0M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974575	GPL570	55	T4N2MX	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	4-9	Negative	Caucasian	TN	NA	any size with direct extension
+GSE76275	GSM1974576	GPL570	44	T2N0MX	44	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974577	GPL570	78	T2N1MX	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974578	GPL570	54	T2N1M0	34	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	1 - 3	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974579	GPL570	71	T2N1M0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974580	GPL570	37	T2N2MX	23	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	4-9	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974581	GPL570	51	T2N2M0	23	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	4-9	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974582	GPL570	64	T2N0M0	36	Negative	Female	Negative	Infiltrating Lobular Carcinoma	Infiltrating Lobular Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974583	GPL570	NA	T2N1M0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974584	GPL570	58	T1NXM0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	NA	<=2cm
+GSE76275	GSM1974585	GPL570	64	T2NXM0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974586	GPL570	NA	T2N0MX	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974587	GPL570	NA	T2N1M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974588	GPL570	NA	T2N0M0	23	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974589	GPL570	73	T1N0M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974590	GPL570	56	T2NXM0	34	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974591	GPL570	43	T2N0M0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974592	GPL570	67	T2NXM0	30	Negative	Female	Negative	Other Breast Cancer	Medullary Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974593	GPL570	43	T2N2MX	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	4-9	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974594	GPL570	69	T2N1MX	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974595	GPL570	54	T2N1MX	27	Negative	Female	Negative	Other Breast Cancer	Medullary Carcinoma	Menopausal	NA	1 - 3	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974596	GPL570	49	T2NXM0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974597	GPL570	83	T1N0M0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974598	GPL570	50	T2N0M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974599	GPL570	44	T2NXMX	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	NA	NA	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974600	GPL570	68	T2NXMX	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974601	GPL570	67	T2NXMX	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974602	GPL570	64	T2N1M0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	1 - 3	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974603	GPL570	59	T2N1MX	44	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974604	GPL570	47	T2NXMX	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974605	GPL570	68	T2NXM0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974606	GPL570	57	T1NXM0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974607	GPL570	58	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974608	GPL570	48	T2NXM0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974609	GPL570	57	T2NXMX	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	Well Differentiated	2 - 5 cm
+GSE76275	GSM1974610	GPL570	66	T1NXMX	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974611	GPL570	39	T2NXM0	21	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974612	GPL570	71	T2N1M0	20	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974613	GPL570	59	T2N0M0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974614	GPL570	67	T2N1M0	38	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974615	GPL570	49	T4N1M0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	any size with direct extension
+GSE76275	GSM1974616	GPL570	48	T2N0M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974617	GPL570	74	T1N0MX	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	0	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974618	GPL570	70	T3N0M0	16	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974619	GPL570	75	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974620	GPL570	26	T4bN2M0	19	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	any size with direct extension
+GSE76275	GSM1974621	GPL570	55	T1N0M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974622	GPL570	59	T2N3M0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	>=10	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974623	GPL570	48	T1N0M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974624	GPL570	56	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974625	GPL570	57	T2N1M0	43	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974626	GPL570	47	T1N1M0	34	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	1 - 3	Negative	Caucasian	TN	NA	<=2cm
+GSE76275	GSM1974627	GPL570	38	T2N1M0	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974628	GPL570	48	T2N0M0	21	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974629	GPL570	64	T2N0M0	20	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974630	GPL570	61	T1N0M0	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	NA	<=2cm
+GSE76275	GSM1974631	GPL570	50	T1N0M0	33	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974632	GPL570	48	T2N3MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	>=10	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974633	GPL570	32	T1cN0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	0	Negative	Caucasian	TN	NA	<=2cm
+GSE76275	GSM1974634	GPL570	41	T1cN0MX	NA	Negative	Female	Negative	Adenocarcinoma/Carcinoma, NOS	Adenocarcinoma of the breast	Pre-Menopausal	NA	0	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974635	GPL570	66	T2N1M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Well Differentiated	2 - 5 cm
+GSE76275	GSM1974636	GPL570	39	T2N0M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Asian	TN	NA	2 - 5 cm
+GSE76275	GSM1974637	GPL570	61	T2NXMX	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974638	GPL570	60	T2N3M0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	>=10	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974639	GPL570	55	T4bN3M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	>=10	Negative	Caucasian	TN	NA	any size with direct extension
+GSE76275	GSM1974640	GPL570	35	T2NXMX	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974641	GPL570	58	T2N0M0	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974642	GPL570	48	T2N0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	0	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974643	GPL570	80	T2NXM0	20	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974644	GPL570	58	T1cNXM0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974645	GPL570	53	T2NXM0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974646	GPL570	64	T2N0M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974647	GPL570	45	T2N2aM0	19	Negative	Female	Negative	Adenocarcinoma/Carcinoma, NOS	Invasive mammary carcinoma	NA	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974648	GPL570	48	T1cN0M0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974649	GPL570	50	T2NXM0	33	Negative	Female	Negative	Adenocarcinoma/Carcinoma, NOS	Invasive carcinoma of the breast with neuroendocrine features	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974650	GPL570	43	T2N0M0	36	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974651	GPL570	69	T2N0M1	31	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	Mets found	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974652	GPL570	45	T2N2M0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974653	GPL570	76	T1cN0M0	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974654	GPL570	55	T2N1aM0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	1 - 3	Negative	Asian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974655	GPL570	42	T3N0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	0	Negative	Caucasian	TN	Moderately Differentiated	>5cm
+GSE76275	GSM1974656	GPL570	57	T2N2M0	38	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974657	GPL570	70	T2N1MO	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974658	GPL570	73	T1cN0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974659	GPL570	42	TXNXMX	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	NA
+GSE76275	GSM1974660	GPL570	42	TXNXMX	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	NA
+GSE76275	GSM1974661	GPL570	38	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974662	GPL570	53	T2N1M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974663	GPL570	36	T4bN2M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	4-9	Negative	Caucasian	TN	Moderately Differentiated	any size with direct extension
+GSE76275	GSM1974664	GPL570	47	T1cN0M0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974665	GPL570	56	T2N3M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	>=10	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974666	GPL570	70	T2N3M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	>=10	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974667	GPL570	72	T2N0M0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974668	GPL570	44	T2N0M0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974669	GPL570	51	T2N0M0	31	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974670	GPL570	70	T2N3M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	>=10	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974671	GPL570	65	T1N0M0	38	Negative	Female	Negative	Adenocarcinoma/Carcinoma, NOS	Adenocarcinoma/Carcinoma, NOS (Probable infiltrating ductal carcinoma)	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974672	GPL570	45	T2N1MX	23	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	1 - 3	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974673	GPL570	62	T2N0M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974674	GPL570	32	T2NXM0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974675	GPL570	38	T2N1MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974676	GPL570	43	T3N0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	0	Negative	Caucasian	TN	Well Differentiated	>5cm
+GSE76275	GSM1974677	GPL570	32	T2N1MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974678	GPL570	49	T2N0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974679	GPL570	50	T2N2MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	4-9	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974680	GPL570	86	T2N0M1	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	Mets found	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974681	GPL570	66	T1cN0M0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974682	GPL570	69	T3N3M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	>=10	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974683	GPL570	60	T3N0MX	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	0	Negative	Caucasian	TN	Moderately Differentiated	>5cm
+GSE76275	GSM1974684	GPL570	47	T3N1MX	24	Negative	Female	Negative	Adenocarcinoma/Carcinoma, NOS	Invasive carcinoma of the breast	Post-Menopausal	NA	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974685	GPL570	57	T2N1M0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974686	GPL570	44	T2N0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974687	GPL570	45	T2N2M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974688	GPL570	32	T2N1M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974689	GPL570	62	T4bN1M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	any size with direct extension
+GSE76275	GSM1974690	GPL570	48	T2N1MX	20	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	1 - 3	Negative	Asian/Pacific Islander	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974691	GPL570	36	T2NXMX	17	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	NA	Negative	Asian/Pacific Islander	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974692	GPL570	53	T2N0M0	21	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974693	GPL570	39	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974694	GPL570	44	T2N0M0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	NA	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974695	GPL570	43	T3N1M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974696	GPL570	67	T1cN0M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974697	GPL570	80	T2N0M0	21	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974698	GPL570	65	T2NXM0	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974699	GPL570	46	T2NXM0	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974700	GPL570	54	T2N0M0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974701	GPL570	51	T1cN1M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974702	GPL570	46	T2N0M0	36	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974703	GPL570	73	T2N1M0	36	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974704	GPL570	73	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974705	GPL570	39	T2N0M0	20	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	NA	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974706	GPL570	49	T2N1M0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974707	GPL570	51	T2N1M0	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974708	GPL570	39	T2N0M0	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974709	GPL570	42	T3N1M0	46	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974710	GPL570	54	T2N0M0	23	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974711	GPL570	69	T2N0M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974712	GPL570	75	TXN1M0	18	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Asian/Pacific Islander	TN	Poorly Differentiated	NA
+GSE76275	GSM1974713	GPL570	35	T4bN0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	any size with direct extension
+GSE76275	GSM1974714	GPL570	38	T2N3M0	35	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	>=10	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974715	GPL570	49	T2NXMX	33	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974716	GPL570	57	T2NXMX	35	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974717	GPL570	65	T2N1M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Asian/Pacific Islander	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974718	GPL570	48	T2NXM0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974719	GPL570	66	T2N1M0	33	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974720	GPL570	55	T3N1M0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	>5cm
+GSE76275	GSM1974721	GPL570	42	T2N2M0	31	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974722	GPL570	71	T2N1M0	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974723	GPL570	72	T2NXM0	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974724	GPL570	45	T2NXM0	23	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974725	GPL570	75	T2NXM0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974726	GPL570	67	T2NXM0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974727	GPL570	41	T2N1M0	39	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974728	GPL570	39	T2NXMX	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	NA	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974729	GPL570	38	T2N1M0	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974730	GPL570	50	T2N3MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	NA	>=10	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974731	GPL570	57	T2N0M0	41	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974732	GPL570	44	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974733	GPL570	39	T1cN1MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	1 - 3	Negative	Caucasian	TN	NA	<=2cm
+GSE76275	GSM1974734	GPL570	36	T2NXMX	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974735	GPL570	63	T2N1M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974736	GPL570	66	T3NXM0	38	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974737	GPL570	47	T2NXM0	34	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974738	GPL570	44	T1cNXM0	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974739	GPL570	49	T1cN2M0	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	4-9	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974740	GPL570	76	T3N2M0	22	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974741	GPL570	61	T3N2M0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	4-9	Negative	Caucasian	TN	Poorly Differentiated	>5cm
+GSE76275	GSM1974742	GPL570	45	T2N1MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974743	GPL570	60	T4bN0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	0	Negative	Caucasian	TN	Moderately Differentiated	any size with direct extension
+GSE76275	GSM1974744	GPL570	46	T2N1aM0	21	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Asian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974745	GPL570	51	T1cN0M0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974746	GPL570	70	T2N0MX	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974747	GPL570	38	T2N0M0	22	Negative	Female	Negative	Adenocarcinoma/Carcinoma, NOS	Carcinoma of the breast	Pre-Menopausal	No mets	0	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974748	GPL570	36	T1cN1M0	28	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974749	GPL570	44	T2N0M0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	NA	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974750	GPL570	47	T1cN0MX	26	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	NA	0	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974751	GPL570	60	T2N0M0	37	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974752	GPL570	65	T1cN1M0	39	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	Caucasian	TN	Moderately Differentiated	<=2cm
+GSE76275	GSM1974753	GPL570	87	T2N1M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	NA	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974754	GPL570	66	T2N1M0	NA	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	1 - 3	Negative	NA	TN	Moderately Differentiated	2 - 5 cm
+GSE76275	GSM1974755	GPL570	48	T2NXM0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974756	GPL570	48	T2NXM0	24	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974757	GPL570	59	T2NXMX	27	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	NA	NA	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974758	GPL570	51	T2NXM0	30	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974759	GPL570	53	T2NXM0	32	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974760	GPL570	85	T1cNXM0	21	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	<=2cm
+GSE76275	GSM1974761	GPL570	49	T2NXM0	25	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Pre-Menopausal	No mets	NA	Negative	Caucasian	TN	Poorly Differentiated	2 - 5 cm
+GSE76275	GSM1974762	GPL570	72	T2N0M0	29	Negative	Female	Negative	Infiltrating Ductal Carcinoma	Infiltrating Ductal Carcinoma	Post-Menopausal	No mets	0	Negative	Caucasian	TN	NA	2 - 5 cm
+GSE76275	GSM1974763	GPL570	47	T4bN2MX	NA	Negative	Female	Negative	Adenocarcinoma/Carcinoma, NOS	Adenocarcinoma of the breast with some tubular carcinoma	NA	NA	4-9	Negative	Caucasian	TN	Well Differentiated	any size with direct extension
+GSE76275	GSM1978883	GPL570	51	T1N2M0	17	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978884	GPL570	NA	T2N1M0	25	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Negative	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978885	GPL570	50	T3N1M0	19	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978886	GPL570	55	T2N0M0	29	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978887	GPL570	69	T2N0MX	24	Negative	Female	Positive	NA	Lobular carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978888	GPL570	35	T3N0M0	22	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Negative	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978889	GPL570	NA	T2N0M0	28	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Negative	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978890	GPL570	51	T2N0M0	22	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978891	GPL570	70	T4N2MX	20	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978892	GPL570	76	T1NXMX	23	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978893	GPL570	51	T2NXMX	25	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978894	GPL570	53	T1cNXMX	23	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978895	GPL570	62	T1cN0MX	24	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978896	GPL570	34	T2N0M0	19	Negative	Female	Positive	NA	Ductal carcinoma in situ of breast	Pre-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978897	GPL570	72	T1cN1M0	28	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978898	GPL570	59	T2N0MX	26	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978899	GPL570	49	T1N0M0	29	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978900	GPL570	45	T4N2M0	28	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978901	GPL570	87	T4NXM0	21	Negative	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978902	GPL570	42	T2N1M0	22	Positive	Female	NA	NA	Lobular carcinoma of breast	Pre-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978903	GPL570	55	T1cN1M0	29	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978904	GPL570	59	T2NXM0	27	Positive	Female	NA	NA	Lobular carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978905	GPL570	39	T1N1M0	25	Positive	Female	Negative	NA	Infiltrating lobular carcinoma of the breas	Pre-menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978906	GPL570	49	T2N3aM0	34	Positive	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978907	GPL570	60	T2N0M0	34	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978908	GPL570	61	T1cN2M0	22	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978909	GPL570	60	T2N1M0	41	Positive	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978910	GPL570	61	T1N2M0	26	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978911	GPL570	65	T1cNXM0	28	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978912	GPL570	68	T2N0M0	29	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978913	GPL570	46	T2N0M0	22	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978914	GPL570	53	T2N1M0	30	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978915	GPL570	NA	T2N0M0	26	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978916	GPL570	48	T2N2M0	37	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978917	GPL570	61	T2N1M0	36	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978918	GPL570	56	T2N2M0	25	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978919	GPL570	45	T1N2M0	29	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978920	GPL570	73	T1NXMX	25	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978921	GPL570	69	T1N1MX	34	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978922	GPL570	65	T1N2MX	31	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978923	GPL570	56	T2N1MX	24	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978924	GPL570	79	T2N0M0	NA	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978925	GPL570	54	T1cN1M0	NA	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978926	GPL570	54	T2N1M0	28	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978927	GPL570	52	T2N1MX	30	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978928	GPL570	75	T2N0MX	27	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978929	GPL570	42	T1N1M0	23	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978930	GPL570	72	T4N0MX	NA	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978931	GPL570	59	T3N0MX	33	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978932	GPL570	44	T2N0MX	22	Positive	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	NA	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978933	GPL570	71	T2N0M0	32	Positive	Female	NA	NA	Infiltrating papillary carcinoma of the bre	Post-menopausal	NA	NA	Negative	Caucasian	not TN	NA	NA
+GSE76275	GSM1978934	GPL570	56	T2NXM0	29	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978935	GPL570	71	T1NXM0	28	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978936	GPL570	44	T1NXM0	26	Positive	Female	Positive	NA	Infiltrating ductal carcinoma of the breast	Pre-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978937	GPL570	59	T2N1M0	24	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-Menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978938	GPL570	77	T1N1MX	33	Positive	Female	Negative	NA	Medullary carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Poorly Differentiated	NA
+GSE76275	GSM1978939	GPL570	64	T2N1M0	NA	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978940	GPL570	46	T1cN0M0	NA	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Unknown	NA	NA	Positive	Caucasian	not TN	Well Differentiated	NA
+GSE76275	GSM1978941	GPL570	62	T2N1M0	40	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978942	GPL570	69	T2N1M0	NA	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978943	GPL570	52	T2N1M0	NA	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978944	GPL570	68	T2N0M0	NA	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978945	GPL570	52	T3N0M0	25	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978946	GPL570	72	T2N1MX	28	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	NA	NA
+GSE76275	GSM1978947	GPL570	61	T1NXM0	32	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978948	GPL570	69	T2N1M0	31	Positive	Female	NA	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA
+GSE76275	GSM1978949	GPL570	71	T1NXM0	27	Positive	Female	Negative	NA	Infiltrating ductal carcinoma of the breast	Post-menopausal	NA	NA	Positive	Caucasian	not TN	Moderately Differentiated	NA

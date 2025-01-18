@@ -1,0 +1,140 @@
+Dataset_ID	Sample_ID	Platform_ID	endocrine_0=no_1=yes	adjuvant_treated_0_no_1_yes	chemo_0_no_1_yes	dfs_event_defined_as_any_type_of_recurrence_or_death_from_breast_cancer	dfs_time	dmfs_event_defined_as_distant_metastasis_or_death_from_breast_cancer	dmfs_time	dss_event_defined_as_death_from_breast_cancer	dss_time	er_status	her2_status	histological_grade	histology	ln_status	patient_age	pgr_status	size_mm	treatment_type
+GSE45255	GSM1100037	GPL96	 1	1	1	0	6.17	0	6.17	0	6.17	ER+	He-	G2	invasive ductal carcinoma	LN-	41	PgR+	20	Tam+ACx4 cycles
+GSE45255	GSM1100038	GPL96	 0	1	1	1	1.13	1	1.13	0	1.13	ER-	He+	G2	invasive ductal carcinoma	LN+	62	PgR-	30	ACx4 cycles
+GSE45255	GSM1100039	GPL96	 1	1	0	0	4.29	0	4.29	0	4.29	ER+	He-	G2	invasive ductal carcinoma	LN-	69	PgR+	30	tamoxifen
+GSE45255	GSM1100040	GPL96	 1	1	0	0	5.88	0	5.88	0	6.04	ER+	He-	G2	invasive ductal carcinoma	LN-	69	PgR+	35	tamoxifen
+GSE45255	GSM1100041	GPL96	 1	1	1	0	2.63	0	2.63	0	2.63	ER+	He+	G2	invasive ductal carcinoma	LN-	40	PgR+	25	Tam+CMFx6 cycles
+GSE45255	GSM1100042	GPL96	 1	1	0	0	6.25	0	6.25	0	6.25	ER+	He+	G2	invasive ductal carcinoma	LN-	69	PgR-	25	tamoxifen
+GSE45255	GSM1100043	GPL96	 0	1	1	1	2.00	1	2.00	0	2.25	ER-	He+	G2	invasive ductal carcinoma	LN+	54	PgR-	60	ACx4 cycles
+GSE45255	GSM1100044	GPL96	 NA	NA	NA	0	5.63	0	5.63	0	5.63	ER+	He+	G2	invasive ductal carcinoma	LN-	48	PgR+	20	NA
+GSE45255	GSM1100045	GPL96	 0	0	0	0	4.04	0	4.04	0	4.08	ER-	He+	G2	invasive ductal carcinoma	LN-	46	PgR-	15	none
+GSE45255	GSM1100046	GPL96	 1	1	0	0	6.00	0	6.00	0	6.00	ER+	He-	G2	invasive ductal carcinoma	LN-	53	PgR-	18	tamoxifen
+GSE45255	GSM1100047	GPL96	 0	1	1	0	5.79	0	5.79	0	5.79	ER+	He-	G2	invasive ductal carcinoma	LN-	52	PgR+	18	CMF
+GSE45255	GSM1100048	GPL96	 0	1	1	0	5.83	0	5.83	0	5.83	ER-	He-	G2	invasive ductal carcinoma	LN+	50	PgR+	25	CAF
+GSE45255	GSM1100049	GPL96	 0	1	1	0	5.75	0	5.75	0	5.92	ER-	He-	G2	invasive ductal carcinoma	LN+	53	PgR+	22	CMF
+GSE45255	GSM1100050	GPL96	 1	1	0	0	5.58	0	5.58	0	5.58	ER+	He+	G2	invasive ductal carcinoma	LN-	77	PgR-	35	tamoxifen
+GSE45255	GSM1100051	GPL96	 1	1	1	0	6.33	0	6.33	0	6.33	ER+	He-	G2	invasive ductal carcinoma	LN-	60	PgR+	20	Tam+CMFx6 cycles
+GSE45255	GSM1100052	GPL96	 1	1	1	NA	NA	NA	NA	NA	NA	ER+	He+	G2	invasive ductal carcinoma	LN+	51	PgR-	25	Tam+ACx8;taxol
+GSE45255	GSM1100053	GPL96	 0	1	1	0	5.00	0	5.00	0	5.00	ER+	He-	G2	invasive ductal carcinoma	LN+	69	PgR+	25	CAF
+GSE45255	GSM1100054	GPL96	 1	1	1	0	5.25	0	5.25	0	5.25	ER+	He+	G2	invasive ductal carcinoma	LN+	49	PgR+	23	Tam+CAFx6 cycles
+GSE45255	GSM1100055	GPL96	 0	1	1	1	0.04	1	0.04	1	3.08	ER+	He-	G2	invasive lobular carcinoma	LN-	48	PgR-	15	anastrozole;taxol
+GSE45255	GSM1100056	GPL96	 1	1	0	1	0.92	0	0.67	0	5.42	ER-	He+	G2	invasive ductal carcinoma	LN+	75	PgR+	40	tamoxifen
+GSE45255	GSM1100057	GPL96	 0	0	0	1	2.83	1	2.83	0	2.83	ER-	He+	G2	invasive ductal carcinoma	LN-	67	PgR-	25	none
+GSE45255	GSM1100058	GPL96	 0	0	0	1	1.25	0	0.67	0	4.58	ER+	He-	G2	invasive ductal carcinoma	LN-	55	PgR+	15	none
+GSE45255	GSM1100059	GPL96	 1	1	1	0	4.67	0	4.67	0	4.67	ER-	He-	G2	invasive ductal carcinoma	LN-	35	PgR+	40	Tam+ACx4 cycles
+GSE45255	GSM1100060	GPL96	 0	1	1	0	5.67	0	5.67	0	5.67	ER+	He+	G2	invasive ductal carcinoma	LN+	46	PgR+	30	CAF
+GSE45255	GSM1100061	GPL96	 0	1	1	0	4.67	0	4.67	0	4.67	ER+	He-	G2	invasive ductal carcinoma	LN-	44	PgR+	35	CMF
+GSE45255	GSM1100062	GPL96	 0	1	1	0	5.17	0	5.17	0	5.17	ER+	He-	G2	invasive ductal carcinoma	LN+	40	PgR+	23	CAF
+GSE45255	GSM1100063	GPL96	 1	1	0	0	4.75	0	4.75	0	4.75	ER+	He+	G2	invasive ductal carcinoma	LN-	57	PgR+	21	tamoxifen
+GSE45255	GSM1100064	GPL96	 1	1	0	0	4.92	0	4.92	0	4.92	ER+	He-	G2	invasive ductal carcinoma	LN+	55	PgR+	19	tamoxifen
+GSE45255	GSM1100065	GPL96	 0	0	0	0	0.42	0	0.42	0	0.42	ER+	He+	G2	invasive ductal carcinoma	LN+	44	PgR+	24	none
+GSE45255	GSM1100066	GPL96	 1	1	1	1	1.67	1	1.67	1	1.75	ER+	He+	G2	invasive ductal carcinoma	LN+	46	PgR-	60	Tam+CAFx2 cycles
+GSE45255	GSM1100067	GPL96	 NA	NA	NA	0	4.50	0	4.50	0	4.50	ER+	He-	G2	invasive ductal carcinoma	LN+	42	PgR-	30	NA
+GSE45255	GSM1100068	GPL96	 1	1	1	0	4.88	0	4.88	0	4.88	ER+	He-	G2	invasive ductal carcinoma	LN-	46	PgR+	15	Tam+CMFx6 cycles
+GSE45255	GSM1100069	GPL96	 1	1	0	0	4.83	0	4.83	0	4.92	ER+	He-	G2	invasive ductal carcinoma	LN+	73	PgR+	20	tamoxifen
+GSE45255	GSM1100070	GPL96	 NA	NA	NA	0	4.00	0	4.00	0	4.50	ER-	He-	G2	invasive ductal and lobular carcinoma	LN+	46	PgR+	40	NA
+GSE45255	GSM1100071	GPL96	 NA	NA	NA	NA	NA	NA	NA	0	0.08	ER+	He+	G2	invasive ductal carcinoma	LN-	66	PgR+	17	NA
+GSE45255	GSM1100072	GPL96	 1	1	0	0	5.58	0	5.58	0	5.58	ER+	He-	G2	invasive ductal carcinoma	LN-	64	PgR+	12	tamoxifen
+GSE45255	GSM1100073	GPL96	 1	1	0	0	5.33	0	5.33	0	5.33	ER+	He-	G2	invasive ductal carcinoma	LN-	49	PgR+	15	tamoxifen
+GSE45255	GSM1100074	GPL96	 0	1	1	0	5.00	0	5.00	0	5.00	ER+	He-	G2	invasive ductal carcinoma	LN-	47	PgR+	35	ACx4 cycles
+GSE45255	GSM1100075	GPL96	 0	1	1	0	1.54	0	1.54	0	5.46	ER-	He+	G3	invasive ductal carcinoma	LN-	34	PgR-	40	ACx4 cycles
+GSE45255	GSM1100076	GPL96	 1	1	0	0	5.46	0	5.46	0	5.46	ER+	He-	G1	invasive ductal carcinoma	LN-	45	PgR+	15	tamoxifen;goserelin
+GSE45255	GSM1100077	GPL96	 1	1	0	0	4.46	0	4.46	0	4.46	ER+	He+	G3	invasive ductal carcinoma	LN-	55	PgR+	20	tamoxifen
+GSE45255	GSM1100078	GPL96	 0	1	1	0	4.88	0	4.88	0	4.88	ER+	He-	G3	invasive ductal carcinoma	LN+	47	PgR+	32	CAF
+GSE45255	GSM1100079	GPL96	 1	1	0	0	NA	0	0.13	0	0.13	ER+	He-	G1	mucinous carcinoma	LN-	66	PgR+	38	tamoxifen
+GSE45255	GSM1100080	GPL96	 0	1	1	0	1.00	0	1.00	0	5.00	ER-	He+	G3	invasive ductal carcinoma	LN-	55	PgR-	60	ACx4 cycles
+GSE45255	GSM1100081	GPL96	 0	1	1	0	4.00	0	4.00	0	4.33	ER-	He+	G3	invasive lobular carcinoma	LN+	52	PgR-	35	ACx4 cycles
+GSE45255	GSM1100082	GPL96	 1	1	0	1	2.04	1	2.04	1	2.25	ER+	He+	G3	invasive ductal carcinoma	LN+	74	PgR-	30	tamoxifen
+GSE45255	GSM1100083	GPL96	 0	1	1	0	4.00	0	4.00	0	4.00	ER-	NA	G3	invasive ductal carcinoma	LN+	44	PgR-	50	ACx4 cycles
+GSE45255	GSM1100084	GPL96	 0	1	1	1	3.96	1	3.96	1	4.63	ER-	He+	G3	invasive ductal carcinoma	LN+	54	PgR-	20	ACx4 cycles
+GSE45255	GSM1100085	GPL96	 0	1	1	0	5.25	0	5.25	0	5.29	ER+	He+	G3	invasive ductal carcinoma	LN+	45	PgR+	25	AC
+GSE45255	GSM1100086	GPL96	 0	1	1	0	1.96	0	1.96	0	1.96	ER+	He+	G3	invasive ductal carcinoma	LN+	58	PgR+	30	CAF
+GSE45255	GSM1100087	GPL96	 1	1	1	1	0.00	1	0.00	1	2.08	ER+	He+	G3	invasive ductal carcinoma	LN+	62	PgR+	25	Arimidex+CMFx2 cycles
+GSE45255	GSM1100088	GPL96	 0	0	0	1	0.88	1	0.88	0	1.00	ER-	He+	G3	invasive ductal carcinoma	LN+	62	PgR-	35	none
+GSE45255	GSM1100089	GPL96	 0	1	1	0	5.08	0	5.08	0	5.08	ER-	He+	G3	invasive ductal carcinoma	LN-	64	PgR-	30	ACx4 cycles
+GSE45255	GSM1100090	GPL96	 0	1	1	0	4.83	0	4.83	0	4.83	ER-	He+	G3	invasive ductal carcinoma	LN+	45	PgR-	20	CAF
+GSE45255	GSM1100091	GPL96	 1	1	0	1	1.96	1	1.96	0	1.96	ER+	He-	G3	invasive ductal carcinoma	LN+	80	PgR+	40	tamoxifen
+GSE45255	GSM1100092	GPL96	 0	1	1	0	5.54	0	5.54	0	5.54	ER-	He-	G3	invasive ductal carcinoma	LN-	41	PgR-	40	ACx4 cycles
+GSE45255	GSM1100093	GPL96	 NA	NA	NA	1	0.13	1	0.13	1	0.38	ER-	He+	G3	invasive ductal carcinoma	LN+	46	PgR-	22	NA
+GSE45255	GSM1100094	GPL96	 0	1	1	1	1.29	1	1.29	1	1.38	ER-	He+	G3	invasive ductal carcinoma	LN+	54	PgR-	35	CAF
+GSE45255	GSM1100095	GPL96	 1	1	0	0	3.13	0	3.13	0	4.38	ER+	He-	G1	invasive ductal carcinoma	LN+	86	PgR+	21	tamoxifen
+GSE45255	GSM1100096	GPL96	 0	1	1	1	2.21	1	2.21	1	3.04	ER+	He-	G1	invasive lobular carcinoma	LN+	29	PgR+	80	CAFx6 cycles
+GSE45255	GSM1100097	GPL96	 0	1	1	0	4.38	0	4.38	0	4.38	ER+	He+	G3	invasive ductal carcinoma	LN+	34	PgR+	35	ACx8 cycles; taxol
+GSE45255	GSM1100098	GPL96	 0	1	1	0	5.08	0	5.08	0	5.08	ER-	He-	G3	invasive ductal carcinoma	LN+	48	PgR-	30	ACx4 cycles
+GSE45255	GSM1100099	GPL96	 0	1	1	0	4.17	0	4.17	0	4.25	ER-	He-	G3	invasive ductal carcinoma	LN-	42	PgR-	22	AC
+GSE45255	GSM1100100	GPL96	 0	1	1	0	0.75	0	0.75	0	0.75	ER-	He-	G3	invasive ductal carcinoma	LN-	48	PgR-	35	ACx4 cycles
+GSE45255	GSM1100101	GPL96	 1	1	1	0	6.29	0	6.29	0	6.29	ER+	He+	G3	invasive ductal carcinoma	LN+	52	PgR+	45	Tam+ACx4 cycles
+GSE45255	GSM1100102	GPL96	 1	1	1	0	5.58	0	5.58	0	5.79	ER+	He-	G1	invasive ductal carcinoma	LN-	60	PgR+	15	Tam+CMFx6 cycles
+GSE45255	GSM1100103	GPL96	 0	1	1	1	0.79	1	0.79	0	1.46	ER-	He+	G3	invasive ductal carcinoma	LN+	51	PgR-	30	ACx4 cycles
+GSE45255	GSM1100104	GPL96	 1	1	1	1	2.29	1	2.29	0	2.88	ER+	He+	G3	invasive ductal carcinoma	LN-	38	PgR-	36	Tam+ACx4 cycles
+GSE45255	GSM1100105	GPL96	 NA	NA	NA	0	4.00	0	4.00	0	4.00	ER-	He+	G3	invasive ductal carcinoma	LN-	42	PgR-	23	NA
+GSE45255	GSM1100106	GPL96	 1	1	0	NA	NA	NA	NA	NA	NA	ER+	He-	G1	papillary carcinoma	LN-	81	PgR+	40	tamoxifen
+GSE45255	GSM1100107	GPL96	 1	1	0	0	3.50	0	3.50	0	4.33	ER+	He-	G1	invasive ductal carcinoma	LN-	77	PgR+	40	tamoxifen
+GSE45255	GSM1100108	GPL96	 0	0	0	0	1.17	0	1.17	0	6.50	ER-	He-	G3	medullary carcinoma	LN-	42	PgR-	20	none
+GSE45255	GSM1100109	GPL96	 0	1	1	0	5.88	0	5.88	0	5.88	ER+	He-	G3	invasive ductal carcinoma	LN+	61	PgR-	25	CMF
+GSE45255	GSM1100110	GPL96	 0	1	1	0	5.71	0	5.71	0	5.71	ER-	He+	G3	invasive ductal carcinoma	LN-	48	PgR-	32	ACx4 cycles
+GSE45255	GSM1100111	GPL96	 0	1	1	0	5.83	0	5.83	0	5.83	ER-	He+	G3	invasive ductal carcinoma	LN+	61	PgR-	15	CAFx6 cycles
+GSE45255	GSM1100112	GPL96	 1	1	1	0	6.17	0	6.17	0	6.17	ER+	He-	G3	invasive ductal carcinoma	LN-	36	PgR+	25	Tam+CMFx6 cycles
+GSE45255	GSM1100113	GPL96	 0	1	1	1	1.92	0	1.33	0	5.58	ER-	He+	G3	invasive ductal carcinoma	LN-	51	PgR-	27	ACx4 cycles
+GSE45255	GSM1100114	GPL96	 0	1	1	0	5.83	0	5.83	0	5.83	ER-	He-	G3	invasive ductal carcinoma	LN-	46	PgR-	25	ACx4 cycles
+GSE45255	GSM1100115	GPL96	 0	1	1	0	5.83	0	5.83	0	5.83	ER-	He+	G3	invasive ductal carcinoma	LN-	48	PgR-	35	ACx4 cycles
+GSE45255	GSM1100116	GPL96	 1	1	1	0	5.79	0	5.79	0	5.79	ER+	He-	G3	invasive ductal carcinoma	LN-	51	PgR-	18	Tam+CMFx6 cycles
+GSE45255	GSM1100117	GPL96	 0	1	1	0	5.88	0	5.88	0	5.88	ER-	He+	G3	invasive ductal carcinoma	LN-	47	PgR-	21	ACx4 cycles
+GSE45255	GSM1100118	GPL96	 1	1	1	0	5.92	0	5.92	0	5.92	ER+	He+	G3	invasive ductal carcinoma	LN+	58	PgR+	51	Tam+ACx4 cycles
+GSE45255	GSM1100119	GPL96	 1	1	1	0	5.58	0	5.58	0	5.58	ER+	He+	G3	invasive ductal carcinoma	LN-	38	PgR+	38	Tam+ACx4 cycles
+GSE45255	GSM1100120	GPL96	 0	1	1	0	4.54	0	4.54	0	4.54	ER+	He-	G3	invasive ductal carcinoma	LN+	47	PgR+	30	CAF
+GSE45255	GSM1100121	GPL96	 1	1	0	0	5.21	0	5.21	0	5.21	ER+	He+	G3	medullary carcinoma	LN-	64	PgR+	50	tamoxifen
+GSE45255	GSM1100122	GPL96	 1	1	1	1	3.83	1	3.83	0	5.75	ER-	He+	G3	invasive ductal carcinoma	LN+	50	PgR+	16	Tam+ACx4 cycles
+GSE45255	GSM1100123	GPL96	 1	1	0	0	5.17	0	5.17	0	5.17	ER+	He-	G1	invasive lobular carcinoma	LN-	52	PgR+	20	tamoxifen
+GSE45255	GSM1100124	GPL96	 1	1	0	0	4.92	0	4.92	0	4.92	ER+	He+	G3	invasive ductal carcinoma	LN+	67	PgR-	25	tamoxifen
+GSE45255	GSM1100125	GPL96	 1	1	1	1	2.00	1	2.00	0	2.00	ER+	He+	G3	invasive ductal carcinoma	LN+	38	PgR+	40	Tam+AC
+GSE45255	GSM1100126	GPL96	 1	1	0	0	0.83	0	0.83	0	0.83	ER+	He-	G3	invasive ductal carcinoma	LN-	84	PgR+	28	tamoxifen
+GSE45255	GSM1100127	GPL96	 0	0	0	0	4.67	0	4.67	0	4.67	NA	NA	G1	invasive ductal carcinoma and papillary carcinoma	LN-	55	NA	25	none
+GSE45255	GSM1100128	GPL96	 1	1	1	0	2.67	0	2.67	0	2.67	ER+	He-	G1	invasive ductal carcinoma	LN+	43	PgR+	24	Tam+ACx4 cycles
+GSE45255	GSM1100129	GPL96	 1	1	0	0	4.38	0	4.38	0	4.38	ER+	He-	G3	invasive ductal carcinoma	LN-	62	PgR+	20	tamoxifen
+GSE45255	GSM1100130	GPL96	 NA	NA	NA	0	4.83	0	4.83	0	4.83	ER+	He-	G1	invasive ductal carcinoma	LN+	59	PgR+	60	NA
+GSE45255	GSM1100131	GPL96	 1	1	1	0	4.33	0	4.33	0	4.33	ER+	NA	G3	invasive ductal carcinoma	LN+	53	PgR+	35	Tam+CMFx6 cycles
+GSE45255	GSM1100132	GPL96	 1	1	0	NA	NA	1	3.05	1	3.44931506849315	ER+	He+	G2	NA	LN-	63	NA	30	Tamoxifen
+GSE45255	GSM1100133	GPL96	 1	1	1	NA	NA	1	1.39	1	2.12602739726027	ER+	He+	G3	NA	LN-	47	PgR+	28	CMFx6; Tamoxifen
+GSE45255	GSM1100134	GPL96	 1	1	0	NA	NA	1	0.65	1	3.07945205479452	ER-	He+	G3	NA	LN-	59	PgR-	25	Tamoxifen
+GSE45255	GSM1100135	GPL96	 1	1	0	NA	NA	1	4.18	1	4.19452054794521	ER-	He-	G3	NA	LN-	66	PgR-	21	Tamoxifen
+GSE45255	GSM1100136	GPL96	 1	1	0	NA	NA	1	4.51	1	6.17260273972603	ER+	He-	G3	NA	LN-	68	PgR+	17	Tamoxifen
+GSE45255	GSM1100137	GPL96	 1	1	0	NA	NA	1	0.25	1	5.03561643835616	ER+	He+	NA	NA	LN-	57	PgR+	85	Tamoxifen
+GSE45255	GSM1100138	GPL96	 1	1	1	NA	NA	1	1.35	1	2.75342465753425	ER+	He-	G3	NA	LN-	38	PgR-	32	ECx4; Tamoxifen
+GSE45255	GSM1100139	GPL96	 1	1	0	NA	NA	1	2.21	1	4.92876712328767	ER+	He-	G3	NA	LN-	63	PgR+	46	Tamoxifen
+GSE45255	GSM1100140	GPL96	 0	1	1	NA	NA	1	3.80	1	4.62191780821918	ER-	He-	G3	NA	LN-	73	PgR-	34	ACx3/CMFx1
+GSE45255	GSM1100141	GPL96	 1	1	0	NA	NA	1	0.76	1	0.991780821917808	ER+	He+	G3	NA	LN-	70	PgR+	35	Tamoxifen
+GSE45255	GSM1100142	GPL96	 1	1	1	NA	NA	0	2.18	0	2.18904109589041	ER+	He-	G1	NA	LN-	46	PgR-	10	Tamoxifen+Zoledronic acid
+GSE45255	GSM1100143	GPL96	 1	1	1	NA	NA	1	2.42	0	7.07945205479452	ER-	He-	G2	NA	LN-	36	PgR-	13	Tamoxifen+Zoledronic acid
+GSE45255	GSM1100144	GPL96	 0	1	1	NA	NA	1	6.15	0	8.02191780821918	ER+	He-	G1	NA	LN-	54	PgR-	55	ACx4
+GSE45255	GSM1100145	GPL96	 1	1	1	NA	NA	1	3.65	0	6.75068493150685	ER+	He-	G3	NA	LN-	60	PgR+	40	CMFx2; Tamoxifen
+GSE45255	GSM1100146	GPL96	 1	1	0	NA	NA	1	3.30	0	5.16438356164384	ER+	He+	G3	NA	LN-	72	PgR+	37	Arimidex/Tamoxifen
+GSE45255	GSM1100147	GPL96	 1	1	0	NA	NA	0	7.82	0	7.82191780821918	ER-	He-	G2	NA	LN-	54	PgR-	10	Tamoxifen
+GSE45255	GSM1100148	GPL96	 1	1	1	NA	NA	0	7.85	0	7.85479452054795	ER+	He+	G2	NA	LN-	48	NA	12	Tamoxifen+Zoledronic acid
+GSE45255	GSM1100149	GPL96	 1	1	0	NA	NA	0	7.31	0	7.30684931506849	ER+	He-	G3	NA	LN-	55	PgR+	18	Tamoxifen
+GSE45255	GSM1100150	GPL96	 1	1	0	NA	NA	0	7.57	0	7.57260273972603	ER+	He+	G2	NA	LN-	81	PgR-	20	Tamoxifen
+GSE45255	GSM1100151	GPL96	 1	1	1	NA	NA	0	6.02	0	6.01917808219178	ER-	He+	G2	NA	LN-	52	PgR-	20	ACx4; Tamoxifen
+GSE45255	GSM1100152	GPL96	 1	1	0	NA	NA	0	6.18	0	6.17534246575342	ER+	He+	G2	NA	LN-	77	PgR+	15	Tamoxifen
+GSE45255	GSM1100153	GPL96	 1	1	0	NA	NA	0	6.65	0	6.65205479452055	ER+	He+	G2	NA	LN-	70	PgR-	35	Tamoxifen
+GSE45255	GSM1100154	GPL96	 1	1	1	NA	NA	0	6.61	0	6.61369863013699	ER-	He-	G3	NA	LN-	67	PgR-	40	ACx6; Tamoxifen
+GSE45255	GSM1100155	GPL96	 1	1	0	NA	NA	0	6.13	0	6.12876712328767	ER+	He+	G3	NA	LN-	62	PgR+	27	Tamoxifen
+GSE45255	GSM1100156	GPL96	 1	1	0	NA	NA	0	5.94	0	5.93698630136986	ER+	He-	G1	NA	LN-	66	PgR+	27	Tamoxifen
+GSE45255	GSM1100157	GPL96	 1	1	0	NA	NA	0	3.12	0	3.11506849315069	ER+	He+	G1	NA	LN-	57	PgR-	20	Tamoxifen
+GSE45255	GSM1100158	GPL96	 1	1	1	NA	NA	0	2.57	0	2.57260273972603	NA	NA	G3	NA	LN-	46	NA	32	CMFx6; Tamoxifen
+GSE45255	GSM1100159	GPL96	 NA	NA	NA	NA	NA	0	6.19	0	6.18630136986301	ER-	He-	NA	NA	LN-	73	PgR-	38	NA
+GSE45255	GSM1100160	GPL96	 0	1	1	NA	NA	0	6.69	0	6.69315068493151	ER+	He-	G2	NA	LN-	42	PgR+	14	CMFx6
+GSE45255	GSM1100161	GPL96	 1	1	0	NA	NA	0	5.52	0	5.52328767123288	ER+	He-	G3	NA	LN-	53	PgR+	19	Tamoxifen
+GSE45255	GSM1100162	GPL96	 1	1	1	NA	NA	0	5.11	0	5.10958904109589	ER+	He-	G3	NA	LN-	60	PgR+	20	ACx4; Arimidex/Tamoxifen
+GSE45255	GSM1100163	GPL96	 1	1	1	NA	NA	0	5.57	0	5.56712328767123	ER-	He-	G3	NA	LN-	61	PgR-	14	CMFx6; Arimidex/Tamoxifen
+GSE45255	GSM1100164	GPL96	 0	1	1	NA	NA	0	6.26	0	6.25753424657534	ER-	NA	G3	NA	LN-	59	PgR-	45	ACx4
+GSE45255	GSM1100165	GPL96	 1	1	0	NA	NA	0	5.13	0	5.13424657534247	ER+	He-	G2	NA	LN-	70	PgR-	20	Tamoxifen
+GSE45255	GSM1100166	GPL96	 0	1	1	NA	NA	0	4.64	0	4.64383561643836	ER+	He-	G2	NA	LN-	45	PgR+	20	CMFx6
+GSE45255	GSM1100167	GPL96	 0	1	1	NA	NA	0	5.01	0	5.00821917808219	ER-	He+	G3	NA	LN-	48	PgR-	60	CMFx6
+GSE45255	GSM1100168	GPL96	 1	1	0	NA	NA	0	4.56	0	4.56164383561644	ER+	He+	G2	NA	LN-	45	PgR+	30	Tamoxifen
+GSE45255	GSM1100169	GPL96	 1	1	1	NA	NA	0	4.96	0	4.95890410958904	ER-	He-	G3	NA	LN-	46	PgR-	27	CMFx6; Tamoxifen
+GSE45255	GSM1100170	GPL96	 1	1	0	NA	NA	0	3.93	0	3.92602739726027	ER+	He+	G1	NA	LN-	56	PgR+	30	Tamoxifen
+GSE45255	GSM1100171	GPL96	 1	1	0	NA	NA	0	4.51	0	4.50958904109589	ER+	He-	G2	NA	LN-	72	PgR-	20	Tamoxifen
+GSE45255	GSM1100172	GPL96	 0	1	1	NA	NA	0	1.66	0	1.66027397260274	ER-	He-	G3	NA	LN-	50	PgR-	29	CMFx6
+GSE45255	GSM1100173	GPL96	 0	0	0	1	7.15	1	7.151	NA	NA	ER-	NA	NA	NA	LN-	67	NA	10	none
+GSE45255	GSM1100174	GPL96	 0	0	0	1	10.61	0	10.614	NA	NA	ER-	NA	G2	NA	LN-	37	NA	23	none
+GSE45255	GSM1100175	GPL96	 0	0	0	0	9.42	0	9.419	NA	NA	ER+	NA	G1	NA	LN-	43	NA	21	none

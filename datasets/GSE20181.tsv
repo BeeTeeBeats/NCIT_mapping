@@ -1,0 +1,177 @@
+Dataset_ID	Sample_ID	Platform_ID	Patient_ID	agent	dose	route_of_administration	time	Treatment_Response	gender
+GSE20181	GSM125123	GPL96	10A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125124	GPL96	10B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125125	GPL96	11A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125126	GPL96	11B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125127	GPL96	12A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125128	GPL96	12B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125129	GPL96	13A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125130	GPL96	13B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125131	GPL96	14A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125132	GPL96	14B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125133	GPL96	15A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125134	GPL96	15B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125135	GPL96	16A	pretreatment	NA	NA	NA	 not assessable	female
+GSE20181	GSM125136	GPL96	16B	Letrozole	 2.5mg/day	oral	 10-14 days	 not assessable	female
+GSE20181	GSM125137	GPL96	17A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125138	GPL96	17B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125139	GPL96	18A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125140	GPL96	18B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125141	GPL96	19A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125142	GPL96	19B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125143	GPL96	20A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125144	GPL96	20B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125145	GPL96	21A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125146	GPL96	21B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125147	GPL96	22A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125148	GPL96	22B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125149	GPL96	23A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125150	GPL96	23B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125151	GPL96	24A	pretreatment	NA	NA	NA	 not assessable	female
+GSE20181	GSM125152	GPL96	24B	Letrozole	 2.5mg/day	oral	 10-14 days	 not assessable	female
+GSE20181	GSM125153	GPL96	25A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125154	GPL96	25B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125155	GPL96	27A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125156	GPL96	27B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125157	GPL96	28A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125158	GPL96	28B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125159	GPL96	29A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125160	GPL96	29B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125161	GPL96	2A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125162	GPL96	2B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125163	GPL96	30A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125164	GPL96	30B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125165	GPL96	31A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125166	GPL96	31B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125167	GPL96	33A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125168	GPL96	33B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125169	GPL96	34A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125170	GPL96	34B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125171	GPL96	35A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125172	GPL96	35B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125173	GPL96	36A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125174	GPL96	36B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125175	GPL96	37A	pretreatment	NA	NA	NA	 not assessable	female
+GSE20181	GSM125176	GPL96	37B	Letrozole	 2.5mg/day	oral	 10-14 days	 not assessable	female
+GSE20181	GSM125177	GPL96	38A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125178	GPL96	38B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125179	GPL96	39A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125180	GPL96	39B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125181	GPL96	40A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125182	GPL96	40B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125183	GPL96	41A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125184	GPL96	41B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125185	GPL96	42A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125186	GPL96	42B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125187	GPL96	44A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125188	GPL96	44B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125189	GPL96	45A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125190	GPL96	45B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125191	GPL96	46A	pretreatment	NA	NA	NA	 not assessable	female
+GSE20181	GSM125192	GPL96	46B	Letrozole	 2.5mg/day	oral	 10-14 days	 not assessable	female
+GSE20181	GSM125193	GPL96	47A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125194	GPL96	47B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125195	GPL96	48A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125196	GPL96	48B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125197	GPL96	49A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125198	GPL96	49B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125199	GPL96	4A	pretreatment	NA	NA	NA	 not assessable	female
+GSE20181	GSM125200	GPL96	4B	Letrozole	 2.5mg/day	oral	 10-14 days	 not assessable	female
+GSE20181	GSM125201	GPL96	50A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125202	GPL96	50B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125203	GPL96	51A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125204	GPL96	51B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125205	GPL96	52A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125206	GPL96	52B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125207	GPL96	53A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125208	GPL96	53B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125209	GPL96	55A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125210	GPL96	55B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125211	GPL96	56A	pretreatment	NA	NA	NA	 not assessable	female
+GSE20181	GSM125212	GPL96	56B	Letrozole	 2.5mg/day	oral	 10-14 days	 not assessable	female
+GSE20181	GSM125213	GPL96	57A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125214	GPL96	57B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125215	GPL96	58A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125216	GPL96	58B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125217	GPL96	59A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125218	GPL96	59B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125219	GPL96	5A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125220	GPL96	5B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125221	GPL96	60A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125222	GPL96	60B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125223	GPL96	63A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125224	GPL96	63B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125225	GPL96	64A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125226	GPL96	64B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125227	GPL96	65A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125228	GPL96	65B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125229	GPL96	68A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125230	GPL96	68B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125231	GPL96	69A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125232	GPL96	69B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125233	GPL96	7A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125234	GPL96	7B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM125235	GPL96	8A	pretreatment	NA	NA	NA	 nonresponder	female
+GSE20181	GSM125236	GPL96	8B	Letrozole	 2.5mg/day	oral	 10-14 days	 nonresponder	female
+GSE20181	GSM125237	GPL96	9A	pretreatment	NA	NA	NA	 responder	female
+GSE20181	GSM125238	GPL96	9B	Letrozole	 2.5mg/day	oral	 10-14 days	 responder	female
+GSE20181	GSM506267	GPL96	2C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506268	GPL96	3C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506269	GPL96	4C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506270	GPL96	5C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506271	GPL96	6C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506272	GPL96	29C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506273	GPL96	30C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506274	GPL96	31C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506275	GPL96	33C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506276	GPL96	34C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506277	GPL96	35C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506278	GPL96	36C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506279	GPL96	37C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506280	GPL96	39C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506281	GPL96	40C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506282	GPL96	41C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506283	GPL96	42C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506284	GPL96	43C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506285	GPL96	44C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506286	GPL96	45C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506287	GPL96	46C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506288	GPL96	47C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506289	GPL96	49C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506290	GPL96	50C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506291	GPL96	51C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506292	GPL96	52C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506293	GPL96	53C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506294	GPL96	55C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506295	GPL96	56C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506296	GPL96	57C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506297	GPL96	58C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506298	GPL96	59C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506299	GPL96	60C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506300	GPL96	63C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506301	GPL96	64C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506302	GPL96	65C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506303	GPL96	67C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506304	GPL96	68C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506305	GPL96	69C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506306	GPL96	11C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506307	GPL96	13C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506308	GPL96	14C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506309	GPL96	21C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506310	GPL96	23C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506311	GPL96	8C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506312	GPL96	10C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506313	GPL96	17C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506314	GPL96	18C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506315	GPL96	19C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506316	GPL96	7C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506317	GPL96	12C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506318	GPL96	15C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506319	GPL96	16C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506320	GPL96	20C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506321	GPL96	22C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506322	GPL96	25C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506323	GPL96	24C	Letrozole	 2.5mg/day	oral	 90 days	 not assessable	female
+GSE20181	GSM506324	GPL96	27C	Letrozole	 2.5mg/day	oral	 90 days	 nonresponder	female
+GSE20181	GSM506325	GPL96	28C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female
+GSE20181	GSM506326	GPL96	9C	Letrozole	 2.5mg/day	oral	 90 days	 responder	female

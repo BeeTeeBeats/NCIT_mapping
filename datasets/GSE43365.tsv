@@ -1,0 +1,112 @@
+Dataset_ID	Sample_ID	Platform_ID	Patient_ID	age	centre	comorb	er	grade_histo	her2	hist	menop	nodes	pr	size_mm
+GSE43365	GSM1061032	GPL570	PK-09-26449	68	6	perfect health	1	2	0	ductal	postmenopausal	0	1	17
+GSE43365	GSM1061033	GPL570	PK-09-26710	60	4	major problems	1	2	0	ductal	postmenopausal	0	1	22
+GSE43365	GSM1061034	GPL570	PK-09-26716	59	4	average for age	0	2	1	ductal	postmenopausal	0	0	10
+GSE43365	GSM1061035	GPL570	PK-09-26718	65	1	average for age	1	2	0	ductal	postmenopausal	0	1	30
+GSE43365	GSM1061036	GPL570	PK-09-26722	43	1	perfect health	0	3	0	ductal	NA	0	0	19
+GSE43365	GSM1061037	GPL570	PK-09-26723	76	1	average for age	1	1	0	lobular	postmenopausal	0	1	16
+GSE43365	GSM1061038	GPL570	PK-09-26724	61	1	minor	1	2	0	lobular	postmenopausal	0	1	11
+GSE43365	GSM1061039	GPL570	PK-09-26725	90	1	NA	0	3	NA	ductal	postmenopausal	0	0	18
+GSE43365	GSM1061040	GPL570	PK-09-26726	47	1	minor	1	2	0	ductal	premenopausal	0	1	13
+GSE43365	GSM1061041	GPL570	PK-09-26727	81	1	major problems	1	2	0	lobular	postmenopausal	0	1	15
+GSE43365	GSM1061042	GPL570	PK-09-26728	61	6	perfect health	1	2	0	ductal	postmenopausal	0	0	10
+GSE43365	GSM1061043	GPL570	PK-09-26729	54	6	minor	0	3	1	ductal	postmenopausal	0	0	45
+GSE43365	GSM1061044	GPL570	PK-09-26730	53	6	perfect health	1	2	0	ductal	NA	0	1	12
+GSE43365	GSM1061045	GPL570	PK-09-26731	72	6	minor	1	1	0	ductal	postmenopausal	3	1	11
+GSE43365	GSM1061046	GPL570	PK-09-26734	66	6	perfect health	1	2	0	ductal	postmenopausal	0	0	50
+GSE43365	GSM1061047	GPL570	PK-09-26737	67	6	perfect health	1	3	0	ductal	postmenopausal	1	1	18
+GSE43365	GSM1061048	GPL570	PK-09-26738	48	2	perfect health	1	2	0	ductal	premenopausal	0	1	10
+GSE43365	GSM1061049	GPL570	PK-09-26739	67	2	minor	1	1	0	ductal	postmenopausal	0	1	18
+GSE43365	GSM1061050	GPL570	PK-09-26740	51	2	minor	1	2	0	ductal	premenopausal	1	1	28
+GSE43365	GSM1061051	GPL570	PK-09-26743	77	2	minor	1	2	0	ductal	postmenopausal	1	1	11
+GSE43365	GSM1061052	GPL570	PK-09-26744	56	2	minor	1	2	1	ductal	postmenopausal	2	1	16
+GSE43365	GSM1061053	GPL570	PK-09-26747	48	2	minor	0	3	0	ductal	premenopausal	0	0	11
+GSE43365	GSM1061054	GPL570	PK-09-26760	73	8	perfect health	1	3	0	ductal	postmenopausal	3	1	44
+GSE43365	GSM1061055	GPL570	PK-09-26776	78	3	perfect health	1	1	0	ductal	postmenopausal	0	1	18
+GSE43365	GSM1061056	GPL570	PK-09-26777	76	3	average for age	1	1	0	ductal	postmenopausal	0	1	24
+GSE43365	GSM1061057	GPL570	PK-09-26779	71	3	NA	1	3	0	ductal	postmenopausal	0	1	19
+GSE43365	GSM1061058	GPL570	PK-09-26781	54	3	minor	1	3	0	lobular	postmenopausal	0	1	35
+GSE43365	GSM1061059	GPL570	PK-09-26783	60	3	major problems	1	2	0	ductal	postmenopausal	0	1	24
+GSE43365	GSM1061060	GPL570	PK-09-26784	69	3	major problems	0	3	0	ductal	postmenopausal	0	0	21
+GSE43365	GSM1061061	GPL570	PK-09-26785	66	3	minor	1	1	0	ductal	postmenopausal	0	0	9
+GSE43365	GSM1061062	GPL570	PK-09-26804	46	9	perfect health	0	3	0	ductal	premenopausal	0	0	32
+GSE43365	GSM1061063	GPL570	PK-09-26805	41	9	perfect health	1	3	0	ductal	premenopausal	1	1	28
+GSE43365	GSM1061064	GPL570	PK-09-26807	53	9	perfect health	1	2	0	lobular	postmenopausal	3	1	28
+GSE43365	GSM1061065	GPL570	PK-09-26808	39	9	perfect health	0	2	0	ductal	premenopausal	0	0	13
+GSE43365	GSM1061066	GPL570	PK-09-26809	50	9	perfect health	1	2	1	ductal	postmenopausal	0	0	15
+GSE43365	GSM1061067	GPL570	PK-09-26854	53	6	perfect health	1	3	0	ductal	premenopausal	1	1	21
+GSE43365	GSM1061068	GPL570	PK-09-26857	78	6	average for age	1	1	0	lobular	postmenopausal	0	1	19
+GSE43365	GSM1061069	GPL570	PK-09-26858	42	6	minor	1	3	0	ductal	premenopausal	0	1	17
+GSE43365	GSM1061070	GPL570	PK-09-26859	81	1	major problems	1	1	0	ductal	postmenopausal	0	1	14
+GSE43365	GSM1061071	GPL570	PK-09-26860	42	1	perfect health	1	1	0	ductal	premenopausal	0	1	41
+GSE43365	GSM1061072	GPL570	PK-09-26861	73	1	average for age	1	3	0	ductal	postmenopausal	3	1	40
+GSE43365	GSM1061073	GPL570	PK-09-26862	55	1	average for age	1	3	0	ductal	postmenopausal	0	1	12
+GSE43365	GSM1061074	GPL570	PK-09-26863	49	1	minor	1	2	0	ductal	premenopausal	0	1	15
+GSE43365	GSM1061075	GPL570	PK-09-26864	78	1	average for age	1	3	1	ductal	postmenopausal	0	1	42
+GSE43365	GSM1061076	GPL570	PK-09-26865	71	1	average for age	0	2	0	ductal	postmenopausal	0	0	12
+GSE43365	GSM1061077	GPL570	PK-09-26866	71	1	minor	1	3	0	ductal	postmenopausal	0	1	42
+GSE43365	GSM1061078	GPL570	PK-09-26869	47	2	minor	1	2	0	ductal	premenopausal	0	1	17
+GSE43365	GSM1061079	GPL570	PK-09-26874	58	2	minor	1	2	0	ductal	postmenopausal	1	1	30
+GSE43365	GSM1061080	GPL570	PK-09-26875	48	2	minor	1	1	0	ductal	premenopausal	0	1	10
+GSE43365	GSM1061081	GPL570	PK-09-26876	61	2	perfect health	1	2	0	ductal	postmenopausal	1	1	25
+GSE43365	GSM1061082	GPL570	PK-09-26894	35	9	perfect health	1	3	0	ductal	premenopausal	1	0	22
+GSE43365	GSM1061083	GPL570	PK-09-26895	65	9	perfect health	1	2	0	ductal	postmenopausal	1	1	11
+GSE43365	GSM1061084	GPL570	PK-09-26896	82	9	average for age	0	3	1	ductal	postmenopausal	0	0	22
+GSE43365	GSM1061085	GPL570	PK-09-26897	73	9	perfect health	1	3	0	lobular	postmenopausal	0	0	22
+GSE43365	GSM1061086	GPL570	PK-09-26898	61	9	perfect health	1	2	0	ductal	postmenopausal	0	1	15
+GSE43365	GSM1061087	GPL570	PK-09-26899	64	9	perfect health	1	1	0	ductal	postmenopausal	0	1	12
+GSE43365	GSM1061088	GPL570	PK-09-26900	82	9	average for age	0	3	0	lobular	postmenopausal	0	0	27
+GSE43365	GSM1061089	GPL570	PK-09-26901	53	9	perfect health	1	2	0	ductal	premenopausal	0	1	19
+GSE43365	GSM1061090	GPL570	PK-09-26902	31	9	perfect health	0	3	0	ductal	premenopausal	0	0	23
+GSE43365	GSM1061091	GPL570	PK-09-26903	42	9	perfect health	1	2	0	lobular	premenopausal	0	1	17
+GSE43365	GSM1061092	GPL570	PK-09-26904	44	9	perfect health	1	2	0	ductal	premenopausal	0	1	25
+GSE43365	GSM1061093	GPL570	PK-09-26905	44	9	perfect health	1	2	0	ductal	premenopausal	0	1	15
+GSE43365	GSM1061094	GPL570	PK-09-26907	49	9	perfect health	1	1	0	ductal	premenopausal	0	1	21
+GSE43365	GSM1061095	GPL570	PK-09-27013	64	9	perfect health	1	2	0	ductal	postmenopausal	1	0	32
+GSE43365	GSM1061096	GPL570	PK-09-27017	64	9	perfect health	1	2	0	ductal	postmenopausal	0	1	13
+GSE43365	GSM1061097	GPL570	PK-09-27019	44	9	perfect health	1	2	0	ductal	premenopausal	0	0	26
+GSE43365	GSM1061098	GPL570	PK-09-27020	55	9	perfect health	1	2	0	ductal	postmenopausal	0	1	17
+GSE43365	GSM1061099	GPL570	PK-09-27023	47	9	perfect health	1	2	0	ductal	premenopausal	0	1	20
+GSE43365	GSM1061100	GPL570	PK-09-27200	49	6	perfect health	0	3	1	ductal	premenopausal	2	0	15
+GSE43365	GSM1061101	GPL570	PK-09-27205	66	6	perfect health	1	2	0	ductal	postmenopausal	0	1	15
+GSE43365	GSM1061102	GPL570	PK-09-27206	63	6	minor	1	3	1	ductal	NA	1	1	18
+GSE43365	GSM1061103	GPL570	PK-09-27207	75	6	average for age	1	2	0	ductal	postmenopausal	2	0	25
+GSE43365	GSM1061104	GPL570	PK-09-27280	60	6	minor	1	2	0	ductal	postmenopausal	0	0	9
+GSE43365	GSM1061105	GPL570	PK-09-27281	77	6	minor	1	3	0	ductal	postmenopausal	3	1	22
+GSE43365	GSM1061106	GPL570	PK-09-27282	58	6	perfect health	1	2	NA	ductal	NA	0	1	15
+GSE43365	GSM1061107	GPL570	PK-09-27283	49	6	major problems	1	1	0	ductal	premenopausal	0	1	15
+GSE43365	GSM1061108	GPL570	PK-09-27284	47	6	minor	1	2	0	ductal	NA	0	1	16
+GSE43365	GSM1061109	GPL570	PK-09-27286	52	6	major problems	1	1	0	lobular	premenopausal	0	1	12
+GSE43365	GSM1061110	GPL570	PK-09-27287	53	6	major problems	1	2	0	ductal	NA	0	1	15
+GSE43365	GSM1061111	GPL570	PK-09-27288	76	6	NA	0	3	1	ductal	postmenopausal	2	0	30
+GSE43365	GSM1061112	GPL570	PK-09-27289	78	9	perfect health	1	1	0	ductal	postmenopausal	0	1	17
+GSE43365	GSM1061113	GPL570	PK-09-27292	47	9	perfect health	0	3	0	ductal	premenopausal	0	0	33
+GSE43365	GSM1061114	GPL570	PK-09-27294	56	9	perfect health	0	2	0	ductal	postmenopausal	0	0	9
+GSE43365	GSM1061115	GPL570	PK-09-27396	84	6	average for age	1	1	0	ductal	postmenopausal	0	1	13
+GSE43365	GSM1061116	GPL570	PK-09-27397	67	6	minor	1	2	0	lobular	postmenopausal	0	1	30
+GSE43365	GSM1061117	GPL570	PK-09-27399	51	6	minor	1	2	0	ductal	NA	1	1	13
+GSE43365	GSM1061118	GPL570	PK-09-27400	87	6	major problems	0	3	1	ductal	postmenopausal	0	0	45
+GSE43365	GSM1061119	GPL570	PK-09-27402	64	6	major problems	1	2	0	ductal	postmenopausal	0	1	6
+GSE43365	GSM1061120	GPL570	PK-09-27403	45	6	perfect health	1	3	0	ductal	premenopausal	1	0	13
+GSE43365	GSM1061121	GPL570	PK-09-27404	56	6	minor	1	1	0	lobular	postmenopausal	0	1	20
+GSE43365	GSM1061122	GPL570	PK-09-27413	43	1	minor	1	2	0	ductal	premenopausal	0	1	13
+GSE43365	GSM1061123	GPL570	PK-09-27492	51	3	minor	1	1	0	ductal	postmenopausal	0	1	12
+GSE43365	GSM1061124	GPL570	PK-09-27493	58	3	minor	1	2	0	ductal	postmenopausal	1	1	18
+GSE43365	GSM1061125	GPL570	PK-09-27499	62	3	minor	1	2	0	ductal	postmenopausal	0	1	15
+GSE43365	GSM1061126	GPL570	PK-09-27501	53	3	minor	1	2	0	lobular	postmenopausal	0	1	8
+GSE43365	GSM1061127	GPL570	PK-09-27514	70	6	major problems	1	3	0	ductal	postmenopausal	1	1	45
+GSE43365	GSM1061128	GPL570	PK-09-27518	38	6	perfect health	0	3	0	ductal	premenopausal	0	0	17
+GSE43365	GSM1061129	GPL570	PK-09-27519	63	6	major problems	1	2	0	ductal	NA	0	1	35
+GSE43365	GSM1061130	GPL570	PK-09-27523	54	6	perfect health	1	3	1	lobular	postmenopausal	0	1	32
+GSE43365	GSM1061131	GPL570	PK-09-27524	53	6	perfect health	1	2	0	ductal	NA	0	0	18
+GSE43365	GSM1061132	GPL570	PK-09-27525	69	6	perfect health	1	2	0	ductal	NA	2	1	42
+GSE43365	GSM1061133	GPL570	PK-09-27526	43	6	perfect health	1	2	0	ductal	premenopausal	0	1	12
+GSE43365	GSM1061134	GPL570	PK-09-27527	78	6	major problems	1	2	0	ductal	postmenopausal	1	0	45
+GSE43365	GSM1061135	GPL570	PK-09-27529	56	6	perfect health	1	1	0	ductal	NA	0	0	12
+GSE43365	GSM1061136	GPL570	PK-09-27530	60	6	perfect health	1	3	1	ductal	postmenopausal	0	1	8
+GSE43365	GSM1061137	GPL570	PK-09-27531	48	6	perfect health	1	3	0	ductal	premenopausal	0	0	28
+GSE43365	GSM1061138	GPL570	PK-09-27864	41	1	minor	1	3	1	ductal	NA	0	1	16
+GSE43365	GSM1061139	GPL570	PK-09-27865	51	1	minor	1	1	0	ductal	postmenopausal	0	1	11
+GSE43365	GSM1061140	GPL570	PK-09-27866	42	1	minor	1	3	0	ductal	premenopausal	0	0	17
+GSE43365	GSM1061141	GPL570	PK-09-27869	75	1	minor	1	1	0	ductal	postmenopausal	0	1	10
+GSE43365	GSM1061142	GPL570	PK-09-27870	80	1	average for age	1	2	0	lobular	postmenopausal	0	1	15
