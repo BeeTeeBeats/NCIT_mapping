@@ -1,0 +1,37 @@
+Dataset_ID	Sample_ID	Platform_ID	Patient_ID	gender	agent	dose	route_of_administration	time
+GSE10281	GSM259581	GPL570	patient 40	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259582	GPL570	patient 50	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259583	GPL570	patient 109	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259584	GPL570	patient 112	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259585	GPL570	patient 114	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259586	GPL570	patient 116	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259587	GPL570	patient 117	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259588	GPL570	patient 126	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259589	GPL570	patient 133	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259590	GPL570	patient 136	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259591	GPL570	patient 137	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259592	GPL570	patient 152	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259593	GPL570	patient 159	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259594	GPL570	patient 161	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259595	GPL570	patient 173	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259596	GPL570	patient 190	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259597	GPL570	patient 193	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259598	GPL570	patient 195	female	Letrozole	 2.5mg/day	oral	 3 months
+GSE10281	GSM259599	GPL570	patient 40	female	pretreatment	NA	NA	NA
+GSE10281	GSM259600	GPL570	patient 50	female	pretreatment	NA	NA	NA
+GSE10281	GSM259601	GPL570	patient 109	female	pretreatment	NA	NA	NA
+GSE10281	GSM259602	GPL570	patient 112	female	pretreatment	NA	NA	NA
+GSE10281	GSM259603	GPL570	patient 114	female	pretreatment	NA	NA	NA
+GSE10281	GSM259604	GPL570	patient 116	female	pretreatment	NA	NA	NA
+GSE10281	GSM259605	GPL570	patient 117	female	pretreatment	NA	NA	NA
+GSE10281	GSM259606	GPL570	patient 126	female	pretreatment	NA	NA	NA
+GSE10281	GSM259607	GPL570	patient 133	female	pretreatment	NA	NA	NA
+GSE10281	GSM259608	GPL570	patient 136	female	pretreatment	NA	NA	NA
+GSE10281	GSM259609	GPL570	patient 137	female	pretreatment	NA	NA	NA
+GSE10281	GSM259610	GPL570	patient 152	female	pretreatment	NA	NA	NA
+GSE10281	GSM259611	GPL570	patient 159	female	pretreatment	NA	NA	NA
+GSE10281	GSM259612	GPL570	patient 161	female	pretreatment	NA	NA	NA
+GSE10281	GSM259613	GPL570	patient 173	female	pretreatment	NA	NA	NA
+GSE10281	GSM259614	GPL570	patient 190	female	pretreatment	NA	NA	NA
+GSE10281	GSM259615	GPL570	patient 193	female	pretreatment	NA	NA	NA
+GSE10281	GSM259616	GPL570	patient 195	female	pretreatment	NA	NA	NA

@@ -2,8 +2,6 @@ library(tidyverse)
 library(readxl)
 
 
-setwd("C:/Users/alexb/Downloads")
-
 # Set file paths
 data_dir_path = "datasets/"
 mapping_file_path = "mapping_file.xlsx"
